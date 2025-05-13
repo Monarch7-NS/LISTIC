@@ -1,0 +1,774 @@
+{
+    "enseignants_chercheurs": [
+        {
+            "name": "IIham ALLOUI",
+            "email": "ilham.alloui -@- univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 87 - fax",
+            "office": "A 229",
+            "address": "LISTIC - Polytech Annecy-Chambéry, BP 80439 - Annecy le Vieux - 74944 ANNECY Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/ilham-alloui/"
+        },
+        {
+            "name": "Khadija Bousselmi Ep ARFAOUI",
+            "email": "khadija.arfaoui –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 59",
+            "office": "A 222",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439 – Annecy le Vieux – 74944 ANNECY Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/khadija-arfaoui"
+        },
+        {
+            "name": "Abdourrahmane ATTO",
+            "email": "Abdourrahmane.Atto@univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 27   – télécopie",
+            "office": "A225",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/abdourrahmane-atto/"
+        },
+        {
+            "name": "Alexandre BENOIT",
+            "email": "alexandre.benoit –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 22",
+            "office": "A223",
+            "address": "LISTIC – Polytech Annecy Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/alexandre-benoit/"
+        },
+        {
+            "name": "Éric BENOIT",
+            "email": "eric.benoit @ univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 44",
+                "+33(0) 4 50 09 65 59"
+            ],
+            "office": "A128",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439 – Annecy le Vieux – 74944 ANNECY Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/eric-benoit-fr/"
+        },
+        {
+            "name": "Lamia-Amel BERRAH",
+            "email": "lamia.berrah@univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 82 – télécopie",
+            "office": "A213",
+            "address": "Polytech Annecy-Chambéry, 5 chemin de Bellevue, CS80439 74944 ANNECY CEDEX",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/lamia-amel-berrah/"
+        },
+        {
+            "name": "Mickaël BETTINELLI",
+            "email": "mickael.bettinelli @ univ-smb.fr",
+            "website": "https://milowb.github.io/",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/mickael-bettinelli/"
+        },
+        {
+            "name": "Argheesh BHANOT",
+            "email": "bhanota@univ-smb.fr",
+            "office": "A127",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439 – Annecy le Vieux – 74944 ANNECY Cedex, France",
+            "Theme": "Traitement du signal et des images, problèmes inverses, optimisation, MCMC, IA, graphes.",
+            "website": "https://argheesh.github.io/",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/argheesh-bhanot/"
+        },
+        {
+            "name": "Julien BOISSIÈRE",
+            "email": "julien.boissiere–@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 55– télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A215",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/julien-boissiere/"
+        },
+        {
+            "name": "Reda BOUKEZZOULA",
+            "email": "reda.boukezzoula –@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 26– télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A218",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/reda-boukezzoula/"
+        },
+        {
+            "name": "Sorana CIMPAN",
+            "email": "sorana.cimpan–@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 65 86– télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A225",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/sorana-cimpan/"
+        },
+        {
+            "name": "Didier COQUIN",
+            "email": "didier.coquin –@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 46 – télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A118",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/didier-coquin/"
+        },
+        {
+            "name": "Vincent COUTURIER",
+            "email": "vincent.couturier –@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 77 – télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A218",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/vincent-couturier/"
+        },
+        {
+            "name": "Luc DAMAS",
+            "email": "luc.damas–@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 45 / 87.03 – télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A223 / 114",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/luc-damas/"
+        },
+        {
+            "name": "Yves DUMOND",
+            "email": "yves.dumond–@– univ-smb.fr",
+            "phone": "+33(0) 4 79 75 87 97",
+            "office": "2D – 203 – bâtiment Polytech",
+            "address": "LISTIC Bâtiment Polytech – Campus Scientifique- Université de Savoie – F- 73376 Le Bourget-du-Lac cedex.",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/yves-dumond/"
+        },
+        {
+            "name": "Guillaume GINOLHAC",
+            "email": "guillaume.ginolhac –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 83 – fax",
+            "office": "A116",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "fax": "+33(0) 4 50 09 65 59"
+        },
+        {
+            "name": "Marc-Philippe HUGET",
+            "email": "marc-philippe.huget–@– univ-smb.fr",
+            "phone": [
+                "+33(0) 4 50 09 65 84 – télécopie",
+                "+33(0) 4 50 09 65 .."
+            ],
+            "office": "A215",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/marc-philippe-huget/"
+        },
+        {
+            "name": "Antoine LAVAULT",
+            "email": "first-name.last-name-@-univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 42",
+            "office": "A 109",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/antoine-lavault/"
+        },
+        {
+            "name": "Christophe LIN KWONG CHON",
+            "email": "christophe.lin-kwong-chon@univ-smb.fr",
+            "address": [
+                "Polytech Annecy-Chambéry, 5 Chem. de Bellevue, 74940 Annecy",
+                "IUT Annecy, 9 Rue de l’Arc en Ciel, 74940 Annecy"
+            ],
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/christophe-lin-kwong-chon/"
+        },
+        {
+            "name": "Faiza LOUKIL",
+            "email": "faiza.loukil -@- univ-smb.fr",
+            "phone": "+33 (0)4 50 09 65 85",
+            "office": "A214",
+            "address": "LISTIC - Polytech Annecy-Chambéry, BP 80439 - Annecy le Vieux - 74944 ANNECY Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/faiza-loukil/"
+        },
+        {
+            "name": "Nicolas MEGER",
+            "email": "nicolas.meger –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 58",
+            "office": "A110",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/nicolas-meger-2/"
+        },
+        {
+            "name": "Yassine MHIRI",
+            "email": "yassine.mhiri@univ-smb.fr",
+            "github": "y-mhiri.github.io",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/yassine-mhiri/"
+        },
+        {
+            "name": "Ammar MIAN",
+            "email": "ammar.mian –@– univ-smb.fr",
+            "phone": "+33 (0)4 50 09 65 50 – télécopie",
+            "office": "A131",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439 – Annecy le Vieux – 74944 ANNECY Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/ammar-mian-fr/"
+        },
+        {
+            "name": "Sébastien MONNET",
+            "email": "sebastien.monnet –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 24 – télécopie",
+            "office": "A228",
+            "address": "LISTIC – POLYTECH ANNECY-CHAMBÉRY, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/sebastien-monnet-fr/"
+        },
+        {
+            "name": "Stéphane PERRIN",
+            "email": "stephane.perrin –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 30 – télécopie",
+            "fax": "+33(0) 4 50 09 65 59",
+            "office": "A129",
+            "address": "LISTIC – Polytech Annecy-Chambéry, Annecy le Vieux, BP 80439, 74944 Annecy Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/stephane-perrin-fr/"
+        },
+        {
+            "name": "Stéphan PLASSART",
+            "email": "stephan.plassart -@- univ-smb.fr",
+            "phone": "+33 (0)4 50 09 65 23",
+            "HAL": "https://cv.hal.science/stephan-plassart",
+            "web": "https://plassart.github.io/",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/stephan-plassart/"
+        },
+        {
+            "name": "Frédéric POURRAZ",
+            "email": "frederic.pourraz -@- univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 39",
+            "office": "A115",
+            "address": "LISTIC - Polytech'Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/frederic-pourraz/"
+        },
+        {
+            "name": "Jean-Yves RAMEL",
+            "email": "jean-yves.ramel@univ-smb.fr",
+            "phone": "+33(0) 4 50",
+            "web": "http://jyramel.free.fr/work/gb/default.html",
+            "HAL": "https://cv.hal.science/jean-yves-ramel",
+            "office": "2D - 204 - Polytech Annecy-Chambery - Bourget du Lac",
+            "address": "Université Savoie-Mont-Blanc UFR SceM - LISTIC - Bureau 204 Bat 2D - Polytech-Annecy-Chambery Campus Savoie-Technolac 73376 Le BOURGET du LAC cedex",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/jean-yves-ramel/"
+        },
+        {
+            "name": "Kavé SALAMATIAN",
+            "email": "kave.salamatian -@- univ-smb.fr",
+            "web": "http://kave.salamatian.org",
+            "phone": "+33(0) 4 50 09 65 37 - fax",
+            "fax": "+33(0) 4 50 09 65 59",
+            "office": "A216",
+            "address": "LISTIC - Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/kave-salamatian/"
+        },
+        {
+            "name": "David TÉLISSON",
+            "email": "david.telisson -@- univ-smb.fr",
+            "phone": "+33(0) 4 79 75 86 69",
+            "address": "Bâtiment 8C - Bureau 251 - 73376 Le Bourget-du-Lac",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/david-telisson/"
+        },
+        {
+            "name": "Emmanuel TROUVÉ",
+            "email": "emmanuel.trouve –@– univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 48- télécopie",
+            "fax": "+33(0) 4 50 09 65 59",
+            "office": "A 132",
+            "address": "LISTIC – Polytech Annecy-Chambéry, BP 80439 – Annecy le Vieux – 74944 ANNECY Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/emmanuel-trouve-fr/"
+        },
+        {
+            "name": "Lionel VALET",
+            "email": "lionel.valet @ univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 25 – télécopie",
+            "fax": "+33(0) 4 50 09 65 59",
+            "office": "A213",
+            "address": "LISTIC – Polytech’Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/pages-fr/lionel-valet-fr/"
+        },
+        {
+            "name": "Hervé VERJUS",
+            "email": "herve.verjus -@- univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 94",
+            "office": "A115",
+            "address": "LISTIC - Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/herve-verjus/"
+        },
+        {
+            "name": "Flavien VERNIER",
+            "email": "<span style=\"font-weight: bold\">flavien -POINT- vernier -AROBAS- univ-smb -POINT- fr",
+            "Telephone": "<span style=\"font-weight: bold\">+33(0) 4 50 09 65 90",
+            "Fax": "<span style=\"font-weight: bold\">+33(0) 4 50 09 65 59",
+            "Office": "<span style=\"font-weight: bold\">A227",
+            "Address": "<span style=\"font-weight: bold\">LISTIC - Polytech Annecy-Chambéry, BP 80439,",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/flavien-vernier/"
+        },
+        {
+            "name": "Yajing YAN",
+            "email": "yajing.yan@univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 36",
+            "office": "A206",
+            "address": "LISTIC, 5 chemin de bellevue, Annecy-le-Vieux, CS 80439, 74944 Annecy Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/yajing-yan-fr/"
+        }
+    ],
+    "émérite": [
+        {
+            "name": "Philippe BOLON",
+            "email": "philippe.bolon-@- univ-smb.fr",
+            "phone": "+33(0) 450 096 541- Fax",
+            "fax": "+33(0) 450 096 559",
+            "office": "A208",
+            "address": "LISTIC - Polytech Annecy-Chambéry/USMB-UNITA ; CS 80439, 5 chemin de Bellevue ; 74940 ANNECY, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/philippe-bolon/"
+        },
+        {
+            "name": "Richard DAPOIGNY",
+            "email": "richard.dapoigny@univ-smb.fr",
+            "phone": "0621353143",
+            "address": "LISTIC, Polytech Annecy-Chambéry, 5 chemin de bellevue, Annecy-le-vieux, 74 940 Annecy",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/collaborateurs-benevoles/richard-dapoigny/"
+        },
+        {
+            "name": "Laurent FOULLOY",
+            "email": "laurent.foulloy -@- univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 49  fax",
+            "fax": "+33(0) 4 50 09 65 .",
+            "office": "",
+            "address": "LISTIC - Polytech Annecy-Chambéry, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/laurent-foulloy/"
+        },
+        {
+            "name": "Gilles MAURIS",
+            "email": "gilles.mauris-@- univ-smb.fr",
+            "phone": "+33(0) 4 50 09 65 52 - fax",
+            "fax": "+33(0) 4 50 09 65 .",
+            "office": "A208",
+            "address": "LISTIC - Polytech'Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/gilles-mauris/"
+        },
+        {
+            "name": "Christophe ROCHE",
+            "email": "christophe.roche@univ-smb.fr",
+            "web": "http://christophe-roche.fr",
+            "phone": "+33 (0) 479 758 779 - Fax",
+            "fax": "+33 (0) 479 758 888",
+            "office": "Bâtiment Mont-Blanc - Campus Scientifique du Bourget du Lac - Office 118",
+            "address": "Equipe Condillac - LISTIC - Campus Scientifique - 73 376 Le Bourget du Lac cedex - France",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/christophe-roche/"
+        }
+    ],
+    "administratif_et_technique": [
+        {
+            "name": "Florent BALDINI",
+            "title": "Assistant ingénieur",
+            "email": null,
+            "phone": null,
+            "fax": null,
+            "office": null,
+            "address": null,
+            "url_listic": null
+        },
+        {
+            "name": "Alseny DIALLO",
+            "title": "Personnel administratif",
+            "email": "alseny.diallo@univ-smb.fr",
+            "phone": "+33(0)450096598",
+            "fax": "+33(0)450096559",
+            "office": "A122",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/alseny"
+        },
+        {
+            "name": "Magali-Lina VIANDAZ",
+            "title": "Personnel administratif",
+            "email": "Courriel : magali-lina.viandaz@univ-smb.fr",
+            "phone": "+33(0)4500965 80",
+            "fax": "+33(0)450096559",
+            "office": "A134",
+            "address": "LISTIC – Polytech’Annecy-Chambéry, BP 80439, Annecy – 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/magali-lina-viandaz/"
+        }
+    ],
+    "doctorants": [
+        {
+            "name": "Zaid ALLAL",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/zaid-allal/",
+            "email": "Zaid.Allal@univ-smb.fr",
+            "email perso": "dr.allal.zaid@gmail.com",
+            "LinkedIn": "https://www.linkedin.com/in/allal-zaid-14b400255/",
+            "phone": "+33 753772346",
+            "WhatsApp": "+212 (0)658640961",
+            "office": "A103",
+            "address": "LISTIC, 5 chemin de bellevue, CS80439, 74 944 Annecy Cedex",
+            "Theme": "ReGaRD",
+            "Sujet": "Solutions d’apprentissage automatique efficaces et robustes pour les systèmes d’énergie renouvelable et d’hydrogène.",
+            "Résumé": "La transition vers des sources d’énergie durables et renouvelables, ainsi que l’utilisation de l’hydrogène comme vecteur d’énergie, est devenue un point central des politiques énergétiques mondiales. L’apprentissage automatique (ML) a le potentiel de relever ces défis et de révolutionner la manière dont nous exploitons et utilisons les énergies renouvelables et l’hydrogène.Cette thèse présente une étude exhaustive visant à enquêter et à développer des applications d’apprentissage automatique dans le domaine des systèmes d’énergie renouvelable. Cette étude se concentrera sur trois cas d’utilisation de modèles ML/DL pour différents processus d’hydrogène/énergie renouvelable, à savoir : (a) la production, (b) le stockage et (c) la distribution, ainsi que le scénario possible de combiner l’énergie hydrogène avec les systèmes d’énergie renouvelable. Les résultats de cette thèse contribueront à l’avancement de solutions énergétiques modernes intelligentes, automatisées, durables et propres, capables de réduire les émissions de carbone et d’atténuer les impacts du changement climatique."
+        },
+        {
+            "name": "Sabrine BOUAZIZ",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/sabrine-bouaziz/",
+            "email": "Sabrine.bouaziz@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A224",
+            "address": "Non trouvée",
+            "Theme": "AFuTé",
+            "Sujet": "XAI (eXplainable AI) for rockfalls  prevision.",
+            "Résumé": "This thesis aims to enhance the management of the risk associated with rockfall events, which are rare but devastating occurrences leading to severe consequences such as loss of human lives and damage to infrastructure. Current challenges include the difficulty in predicting the location and volume of future rockfalls to design appropriate protective measures, while considering the financial constraints of municipalities and private operators. Furthermore, risk management requires a dynamic estimation of the probability of rockfall occurrence based on weather conditions, involving high socio-economic costs."
+        },
+        {
+            "name": "Karima BOUTALBI",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/karima-boutalbi/",
+            "email": "karima.boutalbi@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Clustering hiérarchique de tenseurs sur les données textuelles",
+            "Résumé": "Mots-clefs"
+        },
+        {
+            "name": "Pierre DARDOUILLET",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/pierre-dardouillet/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE ou REGARD",
+            "Sujet": "Résumé :",
+            "Résumé": "Mots-clefs :"
+        },
+        {
+            "name": "Ranya El hadri",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/ranya-el-hadri/",
+            "email": "ranya.el-hadri@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A221",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Méthodologie outillée pour la reconstitution des ontologies de compétences et leur exploitation dans le contexte de l’accompagnement d’un individu vers l’emploi",
+            "Résumé": "Le sujet propre à la thèse portée a pour objectif principal la proposition d’une méthodologie outillée pour la reconstitution des ontologies et leur exploitation dans le contexte de l’accompagnement d’un individu vers l’emploi."
+        },
+        {
+            "name": "Dana El Hajjar",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/dana-el-hajjar/",
+            "email": "dana.el-hajjar@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A117",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Non trouvé",
+            "Résumé": "The systematic acquisition of and free access to Sentinel-1 A/B Synthetic Aperture Radar (SAR) images covering Europe every 6 days (every 12 days elsewhere) provide scientists with both opportunities and challenges for operational monitoring of Earth deformation by SAR image time series. Actually, the displacement estimation with SAR image time series has been well studied with the development of numerous multi-temporal Interferometry SAR (InSAR) methods, such as Small BAseline Subset, Permanent Scatterer Interferometry, SqueeSAR, Phase Linking methods, Multi-link InSAR, CAESAR, Least-Square estimator and EMI. However, incremental methodological development still seems necessary to reply to the operational requirement, that is, the processing should be efficient and robust, and the results should be reliable."
+        },
+        {
+            "name": "Fatema EL-HUSSEINI",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/fatema-el-husseini/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "+33 759368753",
+            "WhatsApp": "Non trouvé",
+            "office": "A103",
+            "address": "Non trouvée",
+            "Theme": "ReGard",
+            "Sujet": "Solutions d’apprentissage automatique efficaces et robustes pour l’industrie 4.0",
+            "Résumé": "Récemment, la quatrième révolution industrielle, ou industrie 4.0, a été définie par l’intégration de technologies de pointe telles que l’automatisation, l’analyse de données et l’internet des objets (IdO) dans les processus industriels et de production. L’intelligence artificielle, en particulier l’apprentissage automatique, nous permet de construire des solutions qui apprennent de l’expérience et progressent sans programmation explicite. En permettant l’analyse et l’interprétation de volumes massifs de données produites par des appareils connectés à l’industrie et en alimentant des systèmes d’automatisation et de contrôle de pointe, l’apprentissage automatique (ML) joue un rôle essentiel dans l’industrie 4.0. Il permet au secteur de réduire les coûts et les temps d’arrêt, de prévoir la maintenance, d’améliorer la qualité des produits et d’optimiser la performance des opérations industrielles. Cette thèse analysera les avantages, les limites et les orientations futures de l’apprentissage automatique pour l’industrie 4.0.  Ensuite, nous nous concentrerons sur la conception de solutions efficaces et robustes d’apprentissage automatique et d’apprentissage profond pour l’industrie 4.0, en mettant l’accent sur la maintenance prédictive, le contrôle qualité prédictif et l’inspection."
+        },
+        {
+            "name": "David ESALE-YOKA",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/david-esale-yoka/",
+            "email": "david.esale-yoka@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "+33658531732",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "Optimisation des données",
+            "Sujet": "Optimisation des Architectures Micro services pour le Traitement de Big Data à l’Aide de Techniques d’Intelligence Artificielle : WOF",
+            "Résumé": "Optimisation des Architectures Micro services pour le Traitement de Big Data à l’Aide de Techniques d’Intelligence Artificielle : WOF Contexte et Motivation Avec la croissance rapide des volumes de données, les entreprises cherchent des solutions efficaces pour traiter, transformer et analyser ces informations. Les architectures en micro services offrent une solution flexible et évolutive pour gérer des applications complexes. Cependant, l’optimisation de ces architectures pour le traitement de big data reste un défi de taille. L’intégration de WOF (l’intelligence artificielle ) peut offrir des solutions innovantes pour surmonter ces défis. Résumé Le traitement des volumes de données à l’ère du numérique présente un enjeu majeur pour les entreprises. Les architectures micro services reconnues apportent beaucoup d’amélioration tant en flexibilité qu’en scalabilité sur un volume important des données, cependant l’optimisation de ces architectures micro services pour traiter efficacement des big data demeure un défi. La complexité croissante des systèmes d’informations et la nécessité de maintenir des performances élevées tout en assurant une résilience et une sécurité robustes exigent des solutions innovantes. Pour cela la thèse s’orientera à intégrer des techniques d’intelligence artificielle WOF (Wise Object Framework) dans les architectures de micro services afin de repondre à ces différents problématiques."
+        },
+        {
+            "name": "Youssouph FAYE",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/youssouph%20FAYE/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE ou REGARD",
+            "Sujet": "Résumé :",
+            "Résumé": "Mots-clefs :"
+        },
+        {
+            "name": "Romain FERRER",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/romain-ferrer/",
+            "email": "romain.ferrer@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A221",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Construction de parcours d’apprentissage flexibles et suivi des étudiants",
+            "Résumé": "Le sujet proposé se positionne en informatique dans le large domaine des applications de l’intelligence artificielle. Mais il faut y adjoindre des approches qualitatives qui s’ouvrent vers les sciences de l’éducation."
+        },
+        {
+            "name": "Francesco FLORIS",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/francesco-floris/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "Sujet",
+            "Sujet": "Résumé",
+            "Résumé": "Mots-clefs"
+        },
+        {
+            "name": "Douba JAFUNO",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/douba-jafuno/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE ou REGARD",
+            "Sujet": "Résumé :",
+            "Résumé": "Mots-clefs :"
+        },
+        {
+            "name": "Utpal KANT",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/utpal-kant/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE ou REGARD",
+            "Sujet": "Résumé :",
+            "Résumé": "Mots-clefs :"
+        },
+        {
+            "name": "Andrew MARY HUET DE BAROCHEZ",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/andrew-mary-huet-de-barochez/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A221",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "« Vers une IA résiliente et soutenable : Plateformes d’apprentissage automatique distribuées, frugales et soucieuses de l’énergie »    /   « Towards sustainable and resilient AI: frugal and energy-aware distributed machine learning platforms »",
+            "Résumé": "Non trouvé"
+        },
+        {
+            "name": "Paul MATHIEU",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/paul-mathieu/",
+            "email": "paul.mathieu@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A117",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Cartographie des Appropriations Territoriales par l’Investigation Numérique Augmentée",
+            "Résumé": "L’objectif principal de cette thèse est de développer des mécanismes d’investigations numériques pour étudier le contrôle du cyberespace et son intégration dans une dynamique d’appropriation territoriale de l’espace global, qu’il soit numérique ou physique. Cela se fera à travers le développement de méthodologies et d’outils de collecte et d’analyse de données en source ouverte. L’enjeu réside dans la détermination de la manière dont ces logiques peuvent être mesurées, identifiées et représentées."
+        },
+        {
+            "name": "Emma MOLIERE",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/emma-moliere/",
+            "email": "emma.moliere@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A210",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "« Detection and prediction of rock-fall events from Ground Based Synthetic Aperture Radar (GB-SAR) image time series »",
+            "Résumé": "This PhD thesis aims to develop processing methods for Ground-Based Synthetic Aperture Radar (GB-SAR) images to detect and predict rockfall events. It relies on a unique dataset acquired on the Saint-Eynard cliff as part of the ANR C2R-IA project, led by BRGM. Radar images are acquired every 30 minutes by the GB-SAR system installed since February 2024, allowing the observation of two types of changes: on the one hand, small surface deformations related to rock wall movements, detected through interferometry (phase difference); on the other hand, abrupt changes in the backscattering coefficient (image amplitude) when a rock block detaches. Currently, only relatively basic processing methods are applied using the software provided with the GB-SAR system, and significant expertise is required to identify the relevant phenomena. The objective of this thesis is to propose automatic and robust methods for detecting precursor signals and events in GB-SAR image time series. Measurements and detections from other sensors (camera, lidar, etc.) installed at the site will support the evaluation and validation of the proposed methods."
+        },
+        {
+            "name": "Saloua NAAMA",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/saloua-naama/",
+            "email": "saloua.naama@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "ReGaRD",
+            "Sujet": "Non trouvé",
+            "Résumé": "Non trouvé"
+        },
+        {
+            "name": "Elimy-Rebeca OJEDA-MENA",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/elimy-rebeca-ojeda-mena/",
+            "email": "elimy-rebeca.ojeda-mena@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A221",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Développement d’un modèle de pilotage et d’amélioration continue de la performance intégrant les risques éthiques dans les systèmes industriels du Futur",
+            "Résumé": "Non trouvé"
+        },
+        {
+            "name": "Maria PAPADOPOULOS",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/maria-papadopoulos/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "Non trouvé",
+            "Résumé": "Non trouvé"
+        },
+        {
+            "name": "Maverick PERROLLAZ",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/maverick-perrollaz/",
+            "email": "maverick.perrollaz@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "REGARD",
+            "Sujet": "Apport de l’approche neuronale dans l’exploitation de nuages de points: Amélioration de l’affichage dans les environnements fortement contraints.",
+            "Résumé": "Amélioration de l’affichage des nuages de points issus de la capture de la réalité dans des environnements aux ressources limitées. Essentiels pour les jumeaux numériques et les mondes virtuels, ces nuages présentent des défis liés à leur taille, à leurs multiples dimensions et aux attentes élevées en matière de rendu en temps réel. Le transfert des données entre les différents niveaux de stockage constitue une limite majeure, accentuée par la bande passante réduite des réseaux et les contraintes des navigateurs web."
+        },
+        {
+            "name": "Matteo SALIS",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/matteo-salis/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "Sujet :",
+            "Sujet": "Résumé :",
+            "Résumé": "Mots-clefs :"
+        },
+        {
+            "name": "Georgios SARLAS",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/georgios-sarlas/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE ou REGARD",
+            "Sujet": "Résumé :",
+            "Résumé": "Mots-clefs :"
+        },
+        {
+            "name": "Francois Xavier SIKOUMO FOGUE",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/francois-xavier-sikoumo-fogue/",
+            "email": "francois.sikounmo-fogue@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "Prédiction de défaillances de",
+            "Sujet": "Résumé",
+            "Résumé": "Le projet se situe dans un contexte industriel à grande échelle pour lequel l’entreprise Pfeiffer Vacuum"
+        },
+        {
+            "name": "Matthieu VERLYNDE",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/matthieu-verlynde/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A221",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "« Classification faiblement supervisée et frugale pour les séries temporelles d’images en télédétection »",
+            "Résumé": "On se propose dans cette thèse d’étudier le problème de la classification de séries temporelles d’images en télédétection. Il s’agit d’un domaine qui soulève de nombreuses problématiques liées au nombre important de données dont la plupart sont non-labélisées. Dans ce cadre, l’efficacité et la frugalité énergétique dans le traitement des données sont cruciales pour deux aspects (Strubell, Ganesh et McCallum 2019, Wu et al. 2022) :"
+        },
+        {
+            "name": "LEA ZUCCALI",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/post-docs-doctorants/lea-zuccali/",
+            "email": "lea.zuccali@univ-smb.fr",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "A109",
+            "address": "Non trouvée",
+            "Theme": "Non trouvé",
+            "Sujet": "« Assimilation de données géodésiques pour une gestion en temps réel des risques naturels »    /   « Assimilation of geodetic data for risk assessment in near-real time by means of a particle filter »",
+            "Résumé": "Non trouvé"
+        }
+    ],
+    "doctorants_externe": [
+        {
+            "name": "Rémi BEISSON",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/post-docs-doctorants/remi-beisson/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE or REGARD",
+            "Sujet": "Non trouvé",
+            "Résumé": "Non trouvé"
+        },
+        {
+            "name": "Abdelaziz OUAZZANI CHAHIDI",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/post-docs-doctorants/abdelaziz-ouazzani-chahdi/",
+            "email": "Non trouvé",
+            "email perso": "Non trouvé",
+            "LinkedIn": "Non trouvé",
+            "phone": "Non trouvé",
+            "WhatsApp": "Non trouvé",
+            "office": "Non trouvé",
+            "address": "Non trouvée",
+            "Theme": "AFUTE or REGARD",
+            "Sujet": "Non trouvé",
+            "Résumé": "Non trouvé"
+        }
+    ]
+}
