@@ -1,0 +1,143 @@
+2025-05-17 09:32:52,956 - INFO - Starting to scrape data for 70 professors.
+2025-05-17 09:32:52,957 - INFO - Searching for professor: IIham ALLOUI
+2025-05-17 09:32:52,957 - INFO - Searching for professor: Khadija Bousselmi Ep ARFAOUI
+2025-05-17 09:32:52,958 - INFO - Searching for professor: Abdourrahmane ATTO
+2025-05-17 09:32:53,205 - WARNING - No author profile found for Khadija Bousselmi Ep ARFAOUI
+2025-05-17 09:32:53,205 - WARNING - No author profile found for IIham ALLOUI
+2025-05-17 09:32:53,206 - INFO - Searching for professor: Alexandre BENOIT
+2025-05-17 09:32:53,206 - INFO - Searching for professor: Éric BENOIT
+2025-05-17 09:32:53,440 - ERROR - Error scraping data for Alexandre BENOIT: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:32:53,467 - INFO - Searching for professor: Lamia-Amel BERRAH
+2025-05-17 09:32:53,887 - WARNING - No author profile found for Lamia-Amel BERRAH
+2025-05-17 09:32:53,932 - INFO - Searching for professor: Mickaël BETTINELLI
+2025-05-17 09:32:54,229 - INFO - Successfully scraped data for Abdourrahmane ATTO. Found 72 publications.
+2025-05-17 09:32:54,229 - INFO - Searching for professor: Argheesh BHANOT
+2025-05-17 09:32:55,809 - INFO - Successfully scraped data for Mickaël BETTINELLI. Found 8 publications.
+2025-05-17 09:32:55,835 - INFO - Successfully scraped data for Éric BENOIT. Found 28 publications.
+2025-05-17 09:32:55,835 - INFO - Searching for professor: Julien BOISSIÈRE
+2025-05-17 09:32:55,835 - INFO - Searching for professor: Reda BOUKEZZOULA
+2025-05-17 09:32:56,263 - INFO - Successfully scraped data for Argheesh BHANOT. Found 2 publications.
+2025-05-17 09:32:56,263 - INFO - Searching for professor: Sorana CIMPAN
+2025-05-17 09:32:56,452 - ERROR - Error scraping data for Sorana CIMPAN: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:32:56,452 - INFO - Searching for professor: Didier COQUIN
+2025-05-17 09:32:58,226 - INFO - Successfully scraped data for Julien BOISSIÈRE. Found 6 publications.
+2025-05-17 09:32:58,227 - INFO - Searching for professor: Vincent COUTURIER
+2025-05-17 09:32:59,920 - INFO - Successfully scraped data for Didier COQUIN. Found 62 publications.
+2025-05-17 09:32:59,933 - INFO - Searching for professor: Luc DAMAS
+2025-05-17 09:33:00,259 - INFO - Successfully scraped data for Reda BOUKEZZOULA. Found 66 publications.
+2025-05-17 09:33:00,275 - INFO - Searching for professor: Yves DUMOND
+2025-05-17 09:33:00,277 - ERROR - Error scraping data for Luc DAMAS: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:33:00,279 - INFO - Searching for professor: Guillaume GINOLHAC
+2025-05-17 09:33:01,658 - INFO - Successfully scraped data for Vincent COUTURIER. Found 12 publications.
+2025-05-17 09:33:01,662 - INFO - Successfully scraped data for Yves DUMOND. Found 2 publications.
+2025-05-17 09:33:01,662 - INFO - Searching for professor: Marc-Philippe HUGET
+2025-05-17 09:33:01,663 - INFO - Searching for professor: Antoine LAVAULT
+2025-05-17 09:33:01,986 - ERROR - Error scraping data for Antoine LAVAULT: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:33:02,047 - INFO - Searching for professor: Christophe LIN KWONG CHON
+2025-05-17 09:33:02,967 - INFO - Successfully scraped data for Guillaume GINOLHAC. Found 106 publications.
+2025-05-17 09:33:02,968 - INFO - Searching for professor: Faiza LOUKIL
+2025-05-17 09:33:03,665 - INFO - Successfully scraped data for Marc-Philippe HUGET. Found 42 publications.
+2025-05-17 09:33:03,666 - INFO - Searching for professor: Nicolas MEGER
+2025-05-17 09:33:03,903 - INFO - Successfully scraped data for Christophe LIN KWONG CHON. Found 4 publications.
+2025-05-17 09:33:03,904 - INFO - Searching for professor: Yassine MHIRI
+2025-05-17 09:33:04,554 - INFO - Successfully scraped data for Faiza LOUKIL. Found 20 publications.
+2025-05-17 09:33:04,565 - INFO - Searching for professor: Ammar MIAN
+2025-05-17 09:33:04,648 - INFO - Successfully scraped data for Yassine MHIRI. Found 7 publications.
+2025-05-17 09:33:04,657 - INFO - Searching for professor: Sébastien MONNET
+2025-05-17 09:33:04,978 - INFO - Successfully scraped data for Nicolas MEGER. Found 29 publications.
+2025-05-17 09:33:04,979 - INFO - Searching for professor: Stéphane PERRIN
+2025-05-17 09:33:06,306 - INFO - Successfully scraped data for Ammar MIAN. Found 28 publications.
+2025-05-17 09:33:06,307 - INFO - Searching for professor: Stéphan PLASSART
+2025-05-17 09:33:07,075 - INFO - Successfully scraped data for Sébastien MONNET. Found 53 publications.
+2025-05-17 09:33:07,086 - INFO - Searching for professor: Frédéric POURRAZ
+2025-05-17 09:33:07,109 - INFO - Successfully scraped data for Stéphane PERRIN. Found 22 publications.
+2025-05-17 09:33:07,110 - INFO - Searching for professor: Jean-Yves RAMEL
+2025-05-17 09:33:09,357 - INFO - Successfully scraped data for Frédéric POURRAZ. Found 18 publications.
+2025-05-17 09:33:09,357 - INFO - Searching for professor: Kavé SALAMATIAN
+2025-05-17 09:33:11,675 - INFO - Successfully scraped data for Stéphan PLASSART. Found 10 publications.
+2025-05-17 09:33:11,694 - INFO - Searching for professor: David TÉLISSON
+2025-05-17 09:33:12,089 - ERROR - Error scraping data for David TÉLISSON: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:33:12,121 - INFO - Successfully scraped data for Jean-Yves RAMEL. Found 105 publications.
+2025-05-17 09:33:12,121 - INFO - Searching for professor: Emmanuel TROUVÉ
+2025-05-17 09:33:12,122 - INFO - Searching for professor: Lionel VALET
+2025-05-17 09:33:14,086 - INFO - Successfully scraped data for Kavé SALAMATIAN. Found 125 publications.
+2025-05-17 09:33:14,095 - INFO - Searching for professor: Hervé VERJUS
+2025-05-17 09:33:14,235 - INFO - Successfully scraped data for Lionel VALET. Found 28 publications.
+2025-05-17 09:33:14,236 - INFO - Searching for professor: Flavien VERNIER
+2025-05-17 09:33:16,955 - INFO - Successfully scraped data for Flavien VERNIER. Found 37 publications.
+2025-05-17 09:33:16,972 - INFO - Searching for professor: Yajing YAN
+2025-05-17 09:33:16,992 - INFO - Successfully scraped data for Emmanuel TROUVÉ. Found 95 publications.
+2025-05-17 09:33:17,019 - INFO - Searching for professor: Philippe BOLON
+2025-05-17 09:33:17,291 - INFO - Successfully scraped data for Hervé VERJUS. Found 55 publications.
+2025-05-17 09:33:17,292 - INFO - Searching for professor: Richard DAPOIGNY
+2025-05-17 09:33:17,340 - ERROR - Error scraping data for Yajing YAN: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:33:17,341 - INFO - Searching for professor: Laurent FOULLOY
+2025-05-17 09:33:20,457 - INFO - Successfully scraped data for Richard DAPOIGNY. Found 40 publications.
+2025-05-17 09:33:20,540 - INFO - Searching for professor: Gilles MAURIS
+2025-05-17 09:33:20,875 - INFO - Successfully scraped data for Laurent FOULLOY. Found 63 publications.
+2025-05-17 09:33:20,883 - INFO - Searching for professor: Christophe ROCHE
+2025-05-17 09:33:21,211 - ERROR - Error scraping data for Christophe ROCHE: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-17 09:33:21,256 - INFO - Searching for professor: Florent BALDINI
+2025-05-17 09:33:21,257 - INFO - Successfully scraped data for Philippe BOLON. Found 75 publications.
+2025-05-17 09:33:21,258 - INFO - Searching for professor: Alseny DIALLO
+2025-05-17 09:33:21,444 - WARNING - No author profile found for Florent BALDINI
+2025-05-17 09:33:21,445 - INFO - Searching for professor: Magali-Lina VIANDAZ
+2025-05-17 09:33:21,640 - WARNING - No author profile found for Magali-Lina VIANDAZ
+2025-05-17 09:33:21,641 - INFO - Searching for professor: Zaid ALLAL
+2025-05-17 09:33:22,116 - INFO - Successfully scraped data for Alseny DIALLO. Found 1 publications.
+2025-05-17 09:33:22,116 - INFO - Searching for professor: Sabrine BOUAZIZ
+2025-05-17 09:33:22,393 - WARNING - No author profile found for Sabrine BOUAZIZ
+2025-05-17 09:33:22,423 - INFO - Searching for professor: Karima BOUTALBI
+2025-05-17 09:33:22,885 - INFO - Successfully scraped data for Gilles MAURIS. Found 67 publications.
+2025-05-17 09:33:22,885 - INFO - Searching for professor: Pierre DARDOUILLET
+2025-05-17 09:33:23,595 - INFO - Successfully scraped data for Zaid ALLAL. Found 5 publications.
+2025-05-17 09:33:23,596 - INFO - Searching for professor: Ranya El hadri
+2025-05-17 09:33:23,706 - INFO - Successfully scraped data for Karima BOUTALBI. Found 4 publications.
+2025-05-17 09:33:23,726 - INFO - Searching for professor: Dana El Hajjar
+2025-05-17 09:33:23,729 - INFO - Successfully scraped data for Pierre DARDOUILLET. Found 4 publications.
+2025-05-17 09:33:23,730 - INFO - Searching for professor: Fatema EL-HUSSEINI
+2025-05-17 09:33:24,802 - INFO - Successfully scraped data for Ranya El hadri. Found 2 publications.
+2025-05-17 09:33:24,803 - INFO - Searching for professor: David ESALE-YOKA
+2025-05-17 09:33:24,844 - INFO - Successfully scraped data for Dana El Hajjar. Found 2 publications.
+2025-05-17 09:33:24,844 - INFO - Searching for professor: Youssouph FAYE
+2025-05-17 09:33:24,895 - INFO - Successfully scraped data for Fatema EL-HUSSEINI. Found 3 publications.
+2025-05-17 09:33:24,896 - INFO - Searching for professor: Romain FERRER
+2025-05-17 09:33:25,014 - WARNING - No author profile found for David ESALE-YOKA
+2025-05-17 09:33:25,015 - INFO - Searching for professor: Francesco FLORIS
+2025-05-17 09:33:25,061 - WARNING - No author profile found for Romain FERRER
+2025-05-17 09:33:25,062 - INFO - Searching for professor: Douba JAFUNO
+2025-05-17 09:33:25,420 - INFO - Successfully scraped data for Youssouph FAYE. Found 1 publications.
+2025-05-17 09:33:25,421 - INFO - Searching for professor: Utpal KANT
+2025-05-17 09:33:25,521 - INFO - Successfully scraped data for Francesco FLORIS. Found 8 publications.
+2025-05-17 09:33:25,522 - INFO - Searching for professor: Andrew MARY HUET DE BAROCHEZ
+2025-05-17 09:33:25,573 - INFO - Successfully scraped data for Douba JAFUNO. Found 3 publications.
+2025-05-17 09:33:25,574 - INFO - Searching for professor: Paul MATHIEU
+2025-05-17 09:33:25,706 - WARNING - No author profile found for Utpal KANT
+2025-05-17 09:33:25,706 - INFO - Searching for professor: Emma MOLIERE
+2025-05-17 09:33:25,870 - WARNING - No author profile found for Emma MOLIERE
+2025-05-17 09:33:25,870 - INFO - Searching for professor: Saloua NAAMA
+2025-05-17 09:33:26,000 - INFO - Successfully scraped data for Paul MATHIEU. Found 2 publications.
+2025-05-17 09:33:26,001 - INFO - Searching for professor: Elimy-Rebeca OJEDA-MENA
+2025-05-17 09:33:26,088 - INFO - Successfully scraped data for Andrew MARY HUET DE BAROCHEZ. Found 1 publications.
+2025-05-17 09:33:26,089 - INFO - Searching for professor: Maria PAPADOPOULOS
+2025-05-17 09:33:26,157 - WARNING - No author profile found for Elimy-Rebeca OJEDA-MENA
+2025-05-17 09:33:26,158 - INFO - Searching for professor: Maverick PERROLLAZ
+2025-05-17 09:33:26,327 - WARNING - No author profile found for Maverick PERROLLAZ
+2025-05-17 09:33:26,328 - INFO - Searching for professor: Matteo SALIS
+2025-05-17 09:33:26,412 - INFO - Successfully scraped data for Saloua NAAMA. Found 2 publications.
+2025-05-17 09:33:26,413 - INFO - Searching for professor: Georgios SARLAS
+2025-05-17 09:33:27,635 - INFO - Successfully scraped data for Georgios SARLAS. Found 3 publications.
+2025-05-17 09:33:27,636 - INFO - Searching for professor: Francois Xavier SIKOUMO FOGUE
+2025-05-17 09:33:27,669 - INFO - Successfully scraped data for Maria PAPADOPOULOS. Found 1 publications.
+2025-05-17 09:33:27,670 - INFO - Searching for professor: Matthieu VERLYNDE
+2025-05-17 09:33:27,756 - INFO - Successfully scraped data for Matteo SALIS. Found 4 publications.
+2025-05-17 09:33:27,757 - INFO - Searching for professor: LEA ZUCCALI
+2025-05-17 09:33:27,896 - WARNING - No author profile found for Matthieu VERLYNDE
+2025-05-17 09:33:27,906 - INFO - Searching for professor: Rémi BEISSON
+2025-05-17 09:33:27,928 - WARNING - No author profile found for Francois Xavier SIKOUMO FOGUE
+2025-05-17 09:33:27,947 - WARNING - No author profile found for LEA ZUCCALI
+2025-05-17 09:33:27,947 - INFO - Searching for professor: Abdelaziz OUAZZANI CHAHIDI
+2025-05-17 09:33:28,473 - INFO - Successfully scraped data for Rémi BEISSON. Found 3 publications.
+2025-05-17 09:33:28,517 - INFO - Successfully scraped data for Abdelaziz OUAZZANI CHAHIDI. Found 2 publications.
+2025-05-17 09:33:28,531 - INFO - Data saved to ./professors_data.json
+2025-05-17 09:33:28,531 - INFO - Scraping completed. Found data for 48 out of 70 professors.

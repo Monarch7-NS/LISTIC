@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alseny DIALLO",
+        "title": "Personnel administratif",
+        "email": "alseny.diallo@univ-smb.fr",
+        "phone": "+33(0)450096598",
+        "fax": "+33(0)450096559",
+        "office": "A122",
+        "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+        "profile_url": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/alseny/"
+    },
+    {
+        "name": "Magali-Lina VIANDAZ",
+        "title": "Personnel administratif",
+        "email": "Courriel : magali-lina.viandaz@univ-smb.fr",
+        "phone": "+33(0)4500965 80",
+        "fax": "+33(0)450096559",
+        "office": "A134",
+        "address": "LISTIC – Polytech’Annecy-Chambéry, BP 80439, Annecy – 74944 Annecy le Vieux Cedex, France",
+        "profile_url": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/magali-lina-viandaz/"
+    },
+    {
+        "name": "Florent BALDINI",
+        "title": "Assistant ingénieur",
+        "email": null,
+        "phone": null,
+        "fax": null,
+        "office": null,
+        "address": null,
+        "profile_url": null
+    }
+]
