@@ -1,0 +1,570 @@
+2025-05-18 21:24:13,340 - INFO - Collections disponibles dans listic_personnes: ['emerites', 'administratifs_techniques', 'enseignants_chercheurs', 'complete_structure', 'doctorants', 'doctorants_externes', 'chercheurs_associes', 'collaborateurs_benevoles']
+2025-05-18 21:24:13,340 - INFO - Collection enseignants_chercheurs: 35 documents
+2025-05-18 21:24:13,343 - INFO - Collection emerites: 5 documents
+2025-05-18 21:24:13,344 - INFO - Collection doctorants: 25 documents
+2025-05-18 21:24:13,346 - INFO - Collection doctorants_externes: 2 documents
+2025-05-18 21:24:13,346 - INFO - Collection administratifs_techniques: 3 documents
+2025-05-18 21:24:13,358 - INFO - Collection collaborateurs_benevoles: 5 documents
+2025-05-18 21:24:13,359 - INFO - Collection chercheurs_associes: 6 documents
+2025-05-18 21:24:13,359 - INFO - Connexion MongoDB établie - Base: listic_personnes, Total documents: 81
+2025-05-18 21:24:13,361 - INFO - Collection enseignants_chercheurs: 35 enseignants récupérés
+2025-05-18 21:24:13,362 - INFO - Collection emerites: 5 enseignants récupérés
+2025-05-18 21:24:13,364 - INFO - Collection doctorants: 25 enseignants récupérés
+2025-05-18 21:24:13,365 - INFO - Collection doctorants_externes: 2 enseignants récupérés
+2025-05-18 21:24:13,367 - INFO - Collection administratifs_techniques: 3 enseignants récupérés
+2025-05-18 21:24:13,367 - INFO - Collection collaborateurs_benevoles: 5 enseignants récupérés
+2025-05-18 21:24:13,368 - INFO - Collection chercheurs_associes: 6 enseignants récupérés
+2025-05-18 21:24:13,369 - INFO - Total: 81 enseignants trouvés dans MongoDB
+2025-05-18 21:24:13,369 - INFO - Répartition par collection:
+2025-05-18 21:24:13,369 - INFO -    - enseignants_chercheurs: 35
+2025-05-18 21:24:13,370 - INFO -    - emerites: 5
+2025-05-18 21:24:13,370 - INFO -    - doctorants: 25
+2025-05-18 21:24:13,370 - INFO -    - doctorants_externes: 2
+2025-05-18 21:24:13,370 - INFO -    - administratifs_techniques: 3
+2025-05-18 21:24:13,371 - INFO -    - collaborateurs_benevoles: 5
+2025-05-18 21:24:13,371 - INFO -    - chercheurs_associes: 6
+2025-05-18 21:24:13,371 - INFO - Début de l'enrichissement HAL pour 81 enseignants
+2025-05-18 21:24:13,373 - INFO - Recherche HAL pour: IIham ALLOUI (enseignants_chercheurs)
+2025-05-18 21:24:13,373 - INFO - Recherche HAL pour: Khadija Bousselmi Ep ARFAOUI (enseignants_chercheurs)
+2025-05-18 21:24:14,614 - WARNING - Aucune publication HAL trouvée pour Khadija Bousselmi Ep ARFAOUI
+2025-05-18 21:24:14,645 - WARNING - Aucune publication HAL trouvée pour IIham ALLOUI
+2025-05-18 21:24:16,616 - INFO - Recherche HAL pour: Abdourrahmane ATTO (enseignants_chercheurs)
+2025-05-18 21:24:16,647 - INFO - Recherche HAL pour: Alexandre BENOIT (enseignants_chercheurs)
+2025-05-18 21:24:17,455 - INFO - HAL: Abdourrahmane ATTO (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:17,462 - INFO - MongoDB: Données HAL mises à jour pour Abdourrahmane ATTO dans enseignants_chercheurs
+2025-05-18 21:24:17,486 - INFO - HAL: Alexandre BENOIT (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:17,488 - INFO - MongoDB: Données HAL mises à jour pour Alexandre BENOIT dans enseignants_chercheurs
+2025-05-18 21:24:19,464 - INFO - Recherche HAL pour: Éric BENOIT (enseignants_chercheurs)
+2025-05-18 21:24:19,490 - INFO - Recherche HAL pour: Lamia-Amel BERRAH (enseignants_chercheurs)
+2025-05-18 21:24:19,771 - WARNING - Aucune publication HAL trouvée pour Lamia-Amel BERRAH
+2025-05-18 21:24:19,779 - INFO - HAL: Éric BENOIT (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:19,782 - INFO - MongoDB: Données HAL mises à jour pour Éric BENOIT dans enseignants_chercheurs
+2025-05-18 21:24:21,772 - INFO - Recherche HAL pour: Mickaël BETTINELLI (enseignants_chercheurs)
+2025-05-18 21:24:21,783 - INFO - Recherche HAL pour: Argheesh BHANOT (enseignants_chercheurs)
+2025-05-18 21:24:22,015 - INFO - HAL: Argheesh BHANOT (enseignants_chercheurs) - 8 publications trouvées
+2025-05-18 21:24:22,018 - INFO - MongoDB: Données HAL mises à jour pour Argheesh BHANOT dans enseignants_chercheurs
+2025-05-18 21:24:22,090 - INFO - HAL: Mickaël BETTINELLI (enseignants_chercheurs) - 13 publications trouvées
+2025-05-18 21:24:22,092 - INFO - MongoDB: Données HAL mises à jour pour Mickaël BETTINELLI dans enseignants_chercheurs
+2025-05-18 21:24:24,020 - INFO - Recherche HAL pour: Julien BOISSIÈRE (enseignants_chercheurs)
+2025-05-18 21:24:24,093 - INFO - Recherche HAL pour: Reda BOUKEZZOULA (enseignants_chercheurs)
+2025-05-18 21:24:24,397 - INFO - HAL: Julien BOISSIÈRE (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:24,400 - INFO - MongoDB: Données HAL mises à jour pour Julien BOISSIÈRE dans enseignants_chercheurs
+2025-05-18 21:24:24,478 - INFO - HAL: Reda BOUKEZZOULA (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:24,480 - INFO - MongoDB: Données HAL mises à jour pour Reda BOUKEZZOULA dans enseignants_chercheurs
+2025-05-18 21:24:26,402 - INFO - Recherche HAL pour: Sorana CIMPAN (enseignants_chercheurs)
+2025-05-18 21:24:26,481 - INFO - Recherche HAL pour: Didier COQUIN (enseignants_chercheurs)
+2025-05-18 21:24:26,483 - INFO - Progrès: 10/81 traités (12.3%)
+2025-05-18 21:24:26,673 - INFO - HAL: Sorana CIMPAN (enseignants_chercheurs) - 39 publications trouvées
+2025-05-18 21:24:26,675 - INFO - MongoDB: Données HAL mises à jour pour Sorana CIMPAN dans enseignants_chercheurs
+2025-05-18 21:24:26,773 - INFO - HAL: Didier COQUIN (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:26,788 - INFO - MongoDB: Données HAL mises à jour pour Didier COQUIN dans enseignants_chercheurs
+2025-05-18 21:24:28,677 - INFO - Recherche HAL pour: Vincent COUTURIER (enseignants_chercheurs)
+2025-05-18 21:24:28,790 - INFO - Recherche HAL pour: Luc DAMAS (enseignants_chercheurs)
+2025-05-18 21:24:29,437 - INFO - HAL: Luc DAMAS (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:29,440 - INFO - MongoDB: Données HAL mises à jour pour Luc DAMAS dans enseignants_chercheurs
+2025-05-18 21:24:29,494 - INFO - HAL: Vincent COUTURIER (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:29,498 - INFO - MongoDB: Données HAL mises à jour pour Vincent COUTURIER dans enseignants_chercheurs
+2025-05-18 21:24:31,442 - INFO - Recherche HAL pour: Yves DUMOND (enseignants_chercheurs)
+2025-05-18 21:24:31,500 - INFO - Recherche HAL pour: Guillaume GINOLHAC (enseignants_chercheurs)
+2025-05-18 21:24:31,738 - INFO - HAL: Yves DUMOND (enseignants_chercheurs) - 44 publications trouvées
+2025-05-18 21:24:31,740 - INFO - MongoDB: Données HAL mises à jour pour Yves DUMOND dans enseignants_chercheurs
+2025-05-18 21:24:31,781 - INFO - HAL: Guillaume GINOLHAC (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:31,784 - INFO - MongoDB: Données HAL mises à jour pour Guillaume GINOLHAC dans enseignants_chercheurs
+2025-05-18 21:24:33,742 - INFO - Recherche HAL pour: Marc-Philippe HUGET (enseignants_chercheurs)
+2025-05-18 21:24:33,785 - INFO - Recherche HAL pour: Antoine LAVAULT (enseignants_chercheurs)
+2025-05-18 21:24:34,022 - INFO - HAL: Marc-Philippe HUGET (enseignants_chercheurs) - 20 publications trouvées
+2025-05-18 21:24:34,026 - INFO - MongoDB: Données HAL mises à jour pour Marc-Philippe HUGET dans enseignants_chercheurs
+2025-05-18 21:24:34,049 - INFO - HAL: Antoine LAVAULT (enseignants_chercheurs) - 13 publications trouvées
+2025-05-18 21:24:34,051 - INFO - MongoDB: Données HAL mises à jour pour Antoine LAVAULT dans enseignants_chercheurs
+2025-05-18 21:24:36,026 - INFO - Recherche HAL pour: Christophe LIN KWONG CHON (enseignants_chercheurs)
+2025-05-18 21:24:36,052 - INFO - Recherche HAL pour: Faiza LOUKIL (enseignants_chercheurs)
+2025-05-18 21:24:36,272 - INFO - HAL: Christophe LIN KWONG CHON (enseignants_chercheurs) - 14 publications trouvées
+2025-05-18 21:24:36,275 - INFO - MongoDB: Données HAL mises à jour pour Christophe LIN KWONG CHON dans enseignants_chercheurs
+2025-05-18 21:24:36,334 - INFO - HAL: Faiza LOUKIL (enseignants_chercheurs) - 29 publications trouvées
+2025-05-18 21:24:36,335 - INFO - MongoDB: Données HAL mises à jour pour Faiza LOUKIL dans enseignants_chercheurs
+2025-05-18 21:24:38,276 - INFO - Recherche HAL pour: Nicolas MEGER (enseignants_chercheurs)
+2025-05-18 21:24:38,337 - INFO - Recherche HAL pour: Yassine MHIRI (enseignants_chercheurs)
+2025-05-18 21:24:38,340 - INFO - Progrès: 20/81 traités (24.7%)
+2025-05-18 21:24:38,574 - INFO - HAL: Nicolas MEGER (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:38,578 - INFO - MongoDB: Données HAL mises à jour pour Nicolas MEGER dans enseignants_chercheurs
+2025-05-18 21:24:38,602 - INFO - HAL: Yassine MHIRI (enseignants_chercheurs) - 12 publications trouvées
+2025-05-18 21:24:38,604 - INFO - MongoDB: Données HAL mises à jour pour Yassine MHIRI dans enseignants_chercheurs
+2025-05-18 21:24:40,580 - INFO - Recherche HAL pour: Ammar MIAN (enseignants_chercheurs)
+2025-05-18 21:24:40,605 - INFO - Recherche HAL pour: Sébastien MONNET (enseignants_chercheurs)
+2025-05-18 21:24:40,878 - INFO - HAL: Sébastien MONNET (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:40,881 - INFO - HAL: Ammar MIAN (enseignants_chercheurs) - 30 publications trouvées
+2025-05-18 21:24:40,881 - INFO - MongoDB: Données HAL mises à jour pour Sébastien MONNET dans enseignants_chercheurs
+2025-05-18 21:24:40,883 - INFO - MongoDB: Données HAL mises à jour pour Ammar MIAN dans enseignants_chercheurs
+2025-05-18 21:24:42,883 - INFO - Recherche HAL pour: Stéphane PERRIN (enseignants_chercheurs)
+2025-05-18 21:24:42,884 - INFO - Recherche HAL pour: Stéphan PLASSART (enseignants_chercheurs)
+2025-05-18 21:24:43,237 - INFO - HAL: Stéphan PLASSART (enseignants_chercheurs) - 14 publications trouvées
+2025-05-18 21:24:43,241 - INFO - MongoDB: Données HAL mises à jour pour Stéphan PLASSART dans enseignants_chercheurs
+2025-05-18 21:24:43,253 - INFO - HAL: Stéphane PERRIN (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:43,256 - INFO - MongoDB: Données HAL mises à jour pour Stéphane PERRIN dans enseignants_chercheurs
+2025-05-18 21:24:45,242 - INFO - Recherche HAL pour: Frédéric POURRAZ (enseignants_chercheurs)
+2025-05-18 21:24:45,257 - INFO - Recherche HAL pour: Jean-Yves RAMEL (enseignants_chercheurs)
+2025-05-18 21:24:45,592 - INFO - HAL: Jean-Yves RAMEL (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:45,595 - INFO - HAL: Frédéric POURRAZ (enseignants_chercheurs) - 39 publications trouvées
+2025-05-18 21:24:45,596 - INFO - MongoDB: Données HAL mises à jour pour Jean-Yves RAMEL dans enseignants_chercheurs
+2025-05-18 21:24:45,598 - INFO - MongoDB: Données HAL mises à jour pour Frédéric POURRAZ dans enseignants_chercheurs
+2025-05-18 21:24:47,597 - INFO - Recherche HAL pour: Kavé SALAMATIAN (enseignants_chercheurs)
+2025-05-18 21:24:47,598 - INFO - Recherche HAL pour: David TÉLISSON (enseignants_chercheurs)
+2025-05-18 21:24:48,141 - INFO - HAL: David TÉLISSON (enseignants_chercheurs) - 12 publications trouvées
+2025-05-18 21:24:48,144 - INFO - MongoDB: Données HAL mises à jour pour David TÉLISSON dans enseignants_chercheurs
+2025-05-18 21:24:48,187 - INFO - HAL: Kavé SALAMATIAN (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:48,190 - INFO - MongoDB: Données HAL mises à jour pour Kavé SALAMATIAN dans enseignants_chercheurs
+2025-05-18 21:24:50,145 - INFO - Recherche HAL pour: Emmanuel TROUVÉ (enseignants_chercheurs)
+2025-05-18 21:24:50,192 - INFO - Recherche HAL pour: Lionel VALET (enseignants_chercheurs)
+2025-05-18 21:24:50,195 - INFO - Progrès: 30/81 traités (37.0%)
+2025-05-18 21:24:50,562 - INFO - HAL: Emmanuel TROUVÉ (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:50,566 - INFO - MongoDB: Données HAL mises à jour pour Emmanuel TROUVÉ dans enseignants_chercheurs
+2025-05-18 21:24:50,637 - INFO - HAL: Lionel VALET (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:50,640 - INFO - MongoDB: Données HAL mises à jour pour Lionel VALET dans enseignants_chercheurs
+2025-05-18 21:24:52,567 - INFO - Recherche HAL pour: Hervé VERJUS (enseignants_chercheurs)
+2025-05-18 21:24:52,642 - INFO - Recherche HAL pour: Flavien VERNIER (enseignants_chercheurs)
+2025-05-18 21:24:52,926 - INFO - HAL: Hervé VERJUS (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:52,929 - INFO - MongoDB: Données HAL mises à jour pour Hervé VERJUS dans enseignants_chercheurs
+2025-05-18 21:24:52,990 - INFO - HAL: Flavien VERNIER (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:52,992 - INFO - MongoDB: Données HAL mises à jour pour Flavien VERNIER dans enseignants_chercheurs
+2025-05-18 21:24:54,930 - INFO - Recherche HAL pour: Yajing YAN (enseignants_chercheurs)
+2025-05-18 21:24:54,994 - INFO - Recherche HAL pour: Philippe BOLON (émérite)
+2025-05-18 21:24:55,235 - INFO - HAL: Yajing YAN (enseignants_chercheurs) - 50 publications trouvées
+2025-05-18 21:24:55,238 - INFO - MongoDB: Données HAL mises à jour pour Yajing YAN dans enseignants_chercheurs
+2025-05-18 21:24:55,301 - INFO - HAL: Philippe BOLON (émérite) - 50 publications trouvées
+2025-05-18 21:24:55,305 - INFO - MongoDB: Données HAL mises à jour pour Philippe BOLON dans emerites
+2025-05-18 21:24:57,240 - INFO - Recherche HAL pour: Richard DAPOIGNY (émérite)
+2025-05-18 21:24:57,305 - INFO - Recherche HAL pour: Laurent FOULLOY (émérite)
+2025-05-18 21:24:59,343 - INFO - HAL: Laurent FOULLOY (émérite) - 50 publications trouvées
+2025-05-18 21:24:59,346 - INFO - MongoDB: Données HAL mises à jour pour Laurent FOULLOY dans emerites
+2025-05-18 21:24:59,375 - INFO - HAL: Richard DAPOIGNY (émérite) - 35 publications trouvées
+2025-05-18 21:24:59,377 - INFO - MongoDB: Données HAL mises à jour pour Richard DAPOIGNY dans emerites
+2025-05-18 21:25:01,347 - INFO - Recherche HAL pour: Gilles MAURIS (émérite)
+2025-05-18 21:25:01,379 - INFO - Recherche HAL pour: Christophe ROCHE (émérite)
+2025-05-18 21:25:03,297 - INFO - HAL: Christophe ROCHE (émérite) - 50 publications trouvées
+2025-05-18 21:25:03,301 - INFO - MongoDB: Données HAL mises à jour pour Christophe ROCHE dans emerites
+2025-05-18 21:25:03,324 - INFO - HAL: Gilles MAURIS (émérite) - 50 publications trouvées
+2025-05-18 21:25:03,326 - INFO - MongoDB: Données HAL mises à jour pour Gilles MAURIS dans emerites
+2025-05-18 21:25:05,302 - INFO - Recherche HAL pour: Zaid ALLAL (doctorants)
+2025-05-18 21:25:05,326 - INFO - Recherche HAL pour: Sabrine BOUAZIZ (doctorants)
+2025-05-18 21:25:05,329 - INFO - Progrès: 40/81 traités (49.4%)
+2025-05-18 21:25:06,146 - INFO - HAL: Sabrine BOUAZIZ (doctorants) - 2 publications trouvées
+2025-05-18 21:25:06,160 - INFO - MongoDB: Données HAL mises à jour pour Sabrine BOUAZIZ dans doctorants
+2025-05-18 21:25:06,185 - INFO - HAL: Zaid ALLAL (doctorants) - 6 publications trouvées
+2025-05-18 21:25:06,187 - INFO - MongoDB: Données HAL mises à jour pour Zaid ALLAL dans doctorants
+2025-05-18 21:25:08,162 - INFO - Recherche HAL pour: Karima BOUTALBI (doctorants)
+2025-05-18 21:25:08,188 - INFO - Recherche HAL pour: Pierre DARDOUILLET (doctorants)
+2025-05-18 21:25:08,719 - INFO - HAL: Pierre DARDOUILLET (doctorants) - 4 publications trouvées
+2025-05-18 21:25:08,722 - INFO - HAL: Karima BOUTALBI (doctorants) - 5 publications trouvées
+2025-05-18 21:25:08,723 - INFO - MongoDB: Données HAL mises à jour pour Pierre DARDOUILLET dans doctorants
+2025-05-18 21:25:08,744 - INFO - MongoDB: Données HAL mises à jour pour Karima BOUTALBI dans doctorants
+2025-05-18 21:25:10,724 - INFO - Recherche HAL pour: Ranya El hadri (doctorants)
+2025-05-18 21:25:10,745 - INFO - Recherche HAL pour: Dana El Hajjar (doctorants)
+2025-05-18 21:25:10,969 - INFO - HAL: Ranya El hadri (doctorants) - 2 publications trouvées
+2025-05-18 21:25:10,972 - INFO - MongoDB: Données HAL mises à jour pour Ranya El hadri dans doctorants
+2025-05-18 21:25:11,022 - INFO - HAL: Dana El Hajjar (doctorants) - 3 publications trouvées
+2025-05-18 21:25:11,024 - INFO - MongoDB: Données HAL mises à jour pour Dana El Hajjar dans doctorants
+2025-05-18 21:25:12,974 - INFO - Recherche HAL pour: Fatema EL-HUSSEINI (doctorants)
+2025-05-18 21:25:13,025 - INFO - Recherche HAL pour: David ESALE-YOKA (doctorants)
+2025-05-18 21:25:13,345 - INFO - HAL: Fatema EL-HUSSEINI (doctorants) - 1 publications trouvées
+2025-05-18 21:25:13,348 - INFO - MongoDB: Données HAL mises à jour pour Fatema EL-HUSSEINI dans doctorants
+2025-05-18 21:25:13,432 - WARNING - Aucune publication HAL trouvée pour David ESALE-YOKA
+2025-05-18 21:25:15,349 - INFO - Recherche HAL pour: Youssouph FAYE (doctorants)
+2025-05-18 21:25:15,434 - INFO - Recherche HAL pour: Romain FERRER (doctorants)
+2025-05-18 21:25:15,698 - INFO - HAL: Youssouph FAYE (doctorants) - 4 publications trouvées
+2025-05-18 21:25:15,701 - INFO - MongoDB: Données HAL mises à jour pour Youssouph FAYE dans doctorants
+2025-05-18 21:25:17,297 - INFO - HAL: Romain FERRER (doctorants) - 50 publications trouvées
+2025-05-18 21:25:17,301 - INFO - MongoDB: Données HAL mises à jour pour Romain FERRER dans doctorants
+2025-05-18 21:25:17,704 - INFO - Recherche HAL pour: Francesco FLORIS (doctorants)
+2025-05-18 21:25:18,983 - INFO - HAL: Francesco FLORIS (doctorants) - 50 publications trouvées
+2025-05-18 21:25:18,986 - INFO - MongoDB: Données HAL mises à jour pour Francesco FLORIS dans doctorants
+2025-05-18 21:25:19,302 - INFO - Recherche HAL pour: Douba JAFUNO (doctorants)
+2025-05-18 21:25:19,307 - INFO - Progrès: 50/81 traités (61.7%)
+2025-05-18 21:25:19,772 - INFO - HAL: Douba JAFUNO (doctorants) - 3 publications trouvées
+2025-05-18 21:25:19,775 - INFO - MongoDB: Données HAL mises à jour pour Douba JAFUNO dans doctorants
+2025-05-18 21:25:20,987 - INFO - Recherche HAL pour: Utpal KANT (doctorants)
+2025-05-18 21:25:21,315 - WARNING - Aucune publication HAL trouvée pour Utpal KANT
+2025-05-18 21:25:21,776 - INFO - Recherche HAL pour: Andrew MARY HUET DE BAROCHEZ (doctorants)
+2025-05-18 21:25:22,005 - INFO - HAL: Andrew MARY HUET DE BAROCHEZ (doctorants) - 1 publications trouvées
+2025-05-18 21:25:22,007 - INFO - MongoDB: Données HAL mises à jour pour Andrew MARY HUET DE BAROCHEZ dans doctorants
+2025-05-18 21:25:23,317 - INFO - Recherche HAL pour: Paul MATHIEU (doctorants)
+2025-05-18 21:25:23,690 - INFO - HAL: Paul MATHIEU (doctorants) - 50 publications trouvées
+2025-05-18 21:25:23,693 - INFO - MongoDB: Données HAL mises à jour pour Paul MATHIEU dans doctorants
+2025-05-18 21:25:24,008 - INFO - Recherche HAL pour: Emma MOLIERE (doctorants)
+2025-05-18 21:25:24,233 - INFO - HAL: Emma MOLIERE (doctorants) - 1 publications trouvées
+2025-05-18 21:25:24,236 - INFO - MongoDB: Données HAL mises à jour pour Emma MOLIERE dans doctorants
+2025-05-18 21:25:25,694 - INFO - Recherche HAL pour: Saloua NAAMA (doctorants)
+2025-05-18 21:25:25,929 - WARNING - Aucune publication HAL trouvée pour Saloua NAAMA
+2025-05-18 21:25:26,238 - INFO - Recherche HAL pour: Elimy-Rebeca OJEDA-MENA (doctorants)
+2025-05-18 21:25:26,477 - WARNING - Aucune publication HAL trouvée pour Elimy-Rebeca OJEDA-MENA
+2025-05-18 21:25:27,930 - INFO - Recherche HAL pour: Maria PAPADOPOULOS (doctorants)
+2025-05-18 21:25:28,484 - INFO - Recherche HAL pour: Maverick PERROLLAZ (doctorants)
+2025-05-18 21:25:28,789 - WARNING - Aucune publication HAL trouvée pour Maverick PERROLLAZ
+2025-05-18 21:25:28,809 - INFO - HAL: Maria PAPADOPOULOS (doctorants) - 50 publications trouvées
+2025-05-18 21:25:28,812 - INFO - MongoDB: Données HAL mises à jour pour Maria PAPADOPOULOS dans doctorants
+2025-05-18 21:25:30,790 - INFO - Recherche HAL pour: Matteo SALIS (doctorants)
+2025-05-18 21:25:30,814 - INFO - Recherche HAL pour: Georgios SARLAS (doctorants)
+2025-05-18 21:25:30,817 - INFO - Progrès: 60/81 traités (74.1%)
+2025-05-18 21:25:31,048 - INFO - HAL: Matteo SALIS (doctorants) - 2 publications trouvées
+2025-05-18 21:25:31,049 - INFO - MongoDB: Données HAL mises à jour pour Matteo SALIS dans doctorants
+2025-05-18 21:25:31,060 - WARNING - Aucune publication HAL trouvée pour Georgios SARLAS
+2025-05-18 21:25:33,051 - INFO - Recherche HAL pour: Francois Xavier SIKOUMO FOGUE (doctorants)
+2025-05-18 21:25:33,061 - INFO - Recherche HAL pour: Matthieu VERLYNDE (doctorants)
+2025-05-18 21:25:33,288 - WARNING - Aucune publication HAL trouvée pour Francois Xavier SIKOUMO FOGUE
+2025-05-18 21:25:33,325 - INFO - HAL: Matthieu VERLYNDE (doctorants) - 3 publications trouvées
+2025-05-18 21:25:33,327 - INFO - MongoDB: Données HAL mises à jour pour Matthieu VERLYNDE dans doctorants
+2025-05-18 21:25:35,289 - INFO - Recherche HAL pour: LEA ZUCCALI (doctorants)
+2025-05-18 21:25:35,329 - INFO - Recherche HAL pour: Rémi BEISSON (doctorants_externe)
+2025-05-18 21:25:35,752 - WARNING - Aucune publication HAL trouvée pour LEA ZUCCALI
+2025-05-18 21:25:35,757 - INFO - HAL: Rémi BEISSON (doctorants_externe) - 7 publications trouvées
+2025-05-18 21:25:35,760 - INFO - MongoDB: Données HAL mises à jour pour Rémi BEISSON dans doctorants_externes
+2025-05-18 21:25:37,754 - INFO - Recherche HAL pour: Abdelaziz OUAZZANI CHAHIDI (doctorants_externe)
+2025-05-18 21:25:37,762 - INFO - Recherche HAL pour: Florent BALDINI (administratif_et_technique)
+2025-05-18 21:25:37,980 - INFO - HAL: Abdelaziz OUAZZANI CHAHIDI (doctorants_externe) - 8 publications trouvées
+2025-05-18 21:25:37,983 - INFO - MongoDB: Données HAL mises à jour pour Abdelaziz OUAZZANI CHAHIDI dans doctorants_externes
+2025-05-18 21:25:38,021 - INFO - HAL: Florent BALDINI (administratif_et_technique) - 2 publications trouvées
+2025-05-18 21:25:38,023 - INFO - MongoDB: Données HAL mises à jour pour Florent BALDINI dans administratifs_techniques
+2025-05-18 21:25:39,984 - INFO - Recherche HAL pour: Alseny DIALLO (administratif_et_technique)
+2025-05-18 21:25:40,025 - INFO - Recherche HAL pour: Magali-Lina VIANDAZ (administratif_et_technique)
+2025-05-18 21:25:40,273 - WARNING - Aucune publication HAL trouvée pour Magali-Lina VIANDAZ
+2025-05-18 21:25:40,275 - INFO - HAL: Alseny DIALLO (administratif_et_technique) - 5 publications trouvées
+2025-05-18 21:25:40,278 - INFO - MongoDB: Données HAL mises à jour pour Alseny DIALLO dans administratifs_techniques
+2025-05-18 21:25:42,275 - INFO - Recherche HAL pour: Patrick BARLATIER (collaborateurs_benevoles)
+2025-05-18 21:25:42,279 - INFO - Recherche HAL pour: Richard DAPOIGNY (collaborateurs_benevoles)
+2025-05-18 21:25:42,281 - INFO - Progrès: 70/81 traités (86.4%)
+2025-05-18 21:25:42,619 - INFO - HAL: Patrick BARLATIER (collaborateurs_benevoles) - 21 publications trouvées
+2025-05-18 21:25:42,622 - INFO - MongoDB: Données HAL mises à jour pour Patrick BARLATIER dans collaborateurs_benevoles
+2025-05-18 21:25:42,628 - INFO - HAL: Richard DAPOIGNY (collaborateurs_benevoles) - 35 publications trouvées
+2025-05-18 21:25:42,631 - INFO - MongoDB: Données HAL mises à jour pour Richard DAPOIGNY dans collaborateurs_benevoles
+2025-05-18 21:25:44,623 - INFO - Recherche HAL pour: Patrice MOREAUX (collaborateurs_benevoles)
+2025-05-18 21:25:44,633 - INFO - Recherche HAL pour: Julien ROCHE (collaborateurs_benevoles)
+2025-05-18 21:25:45,385 - INFO - HAL: Patrice MOREAUX (collaborateurs_benevoles) - 26 publications trouvées
+2025-05-18 21:25:45,388 - INFO - MongoDB: Données HAL mises à jour pour Patrice MOREAUX dans collaborateurs_benevoles
+2025-05-18 21:25:45,391 - INFO - HAL: Julien ROCHE (collaborateurs_benevoles) - 50 publications trouvées
+2025-05-18 21:25:45,393 - INFO - MongoDB: Données HAL mises à jour pour Julien ROCHE dans collaborateurs_benevoles
+2025-05-18 21:25:47,390 - INFO - Recherche HAL pour: Jean-Jacques VINUREL (collaborateurs_benevoles)
+2025-05-18 21:25:47,395 - INFO - Recherche HAL pour: Pascal AYGALINC (chercheurs_associes)
+2025-05-18 21:25:48,043 - INFO - HAL: Pascal AYGALINC (chercheurs_associes) - 1 publications trouvées
+2025-05-18 21:25:48,043 - WARNING - Aucune publication HAL trouvée pour Jean-Jacques VINUREL
+2025-05-18 21:25:48,047 - INFO - MongoDB: Données HAL mises à jour pour Pascal AYGALINC dans chercheurs_associes
+2025-05-18 21:25:50,045 - INFO - Recherche HAL pour: Soizick CALVEZ (chercheurs_associes)
+2025-05-18 21:25:50,049 - INFO - Recherche HAL pour: Éric CHOTIN (chercheurs_associes)
+2025-05-18 21:25:50,279 - WARNING - Aucune publication HAL trouvée pour Soizick CALVEZ
+2025-05-18 21:25:50,307 - INFO - HAL: Éric CHOTIN (chercheurs_associes) - 5 publications trouvées
+2025-05-18 21:25:50,309 - INFO - MongoDB: Données HAL mises à jour pour Éric CHOTIN dans chercheurs_associes
+2025-05-18 21:25:52,281 - INFO - Recherche HAL pour: Jean-Jacques CURTELIN (chercheurs_associes)
+2025-05-18 21:25:52,310 - INFO - Recherche HAL pour: Pascal MOUILLE (chercheurs_associes)
+2025-05-18 21:25:53,058 - INFO - HAL: Jean-Jacques CURTELIN (chercheurs_associes) - 3 publications trouvées
+2025-05-18 21:25:53,061 - INFO - MongoDB: Données HAL mises à jour pour Jean-Jacques CURTELIN dans chercheurs_associes
+2025-05-18 21:25:53,063 - INFO - HAL: Pascal MOUILLE (chercheurs_associes) - 10 publications trouvées
+2025-05-18 21:25:53,065 - INFO - MongoDB: Données HAL mises à jour pour Pascal MOUILLE dans chercheurs_associes
+2025-05-18 21:25:55,063 - INFO - Recherche HAL pour: Maria PAPADOPOULOU (chercheurs_associes)
+2025-05-18 21:25:55,069 - INFO - Progrès: 80/81 traités (98.8%)
+2025-05-18 21:25:56,366 - INFO - HAL: Maria PAPADOPOULOU (chercheurs_associes) - 50 publications trouvées
+2025-05-18 21:25:56,370 - INFO - MongoDB: Données HAL mises à jour pour Maria PAPADOPOULOU dans chercheurs_associes
+2025-05-18 21:25:58,375 - INFO - 
+======================================================================
+2025-05-18 21:25:58,376 - INFO - RAPPORT FINAL D'ENRICHISSEMENT HAL
+2025-05-18 21:25:58,377 - INFO - ======================================================================
+2025-05-18 21:25:58,377 - INFO - Total traités: 81
+2025-05-18 21:25:58,378 - INFO - Enrichis avec succès: 67
+2025-05-18 21:25:58,379 - INFO - Déjà enrichis (ignorés): 0
+2025-05-18 21:25:58,379 - INFO - Erreurs: 0
+2025-05-18 21:25:58,380 - INFO - Taux de succès: 82.7%
+2025-05-18 21:25:58,381 - INFO - 
+STATISTIQUES PAR CATÉGORIE:
+2025-05-18 21:25:58,381 - INFO -    enseignants_chercheurs:
+2025-05-18 21:25:58,382 - INFO -       Total: 35
+2025-05-18 21:25:58,382 - INFO -       Enrichis: 32
+2025-05-18 21:25:58,383 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,383 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,384 - INFO -       Taux de succès: 91.4%
+2025-05-18 21:25:58,384 - INFO -    émérite:
+2025-05-18 21:25:58,385 - INFO -       Total: 5
+2025-05-18 21:25:58,385 - INFO -       Enrichis: 5
+2025-05-18 21:25:58,385 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,386 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,386 - INFO -       Taux de succès: 100.0%
+2025-05-18 21:25:58,386 - INFO -    doctorants:
+2025-05-18 21:25:58,387 - INFO -       Total: 25
+2025-05-18 21:25:58,387 - INFO -       Enrichis: 17
+2025-05-18 21:25:58,387 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,388 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,388 - INFO -       Taux de succès: 68.0%
+2025-05-18 21:25:58,388 - INFO -    doctorants_externe:
+2025-05-18 21:25:58,388 - INFO -       Total: 2
+2025-05-18 21:25:58,389 - INFO -       Enrichis: 2
+2025-05-18 21:25:58,389 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,389 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,390 - INFO -       Taux de succès: 100.0%
+2025-05-18 21:25:58,390 - INFO -    administratif_et_technique:
+2025-05-18 21:25:58,390 - INFO -       Total: 3
+2025-05-18 21:25:58,391 - INFO -       Enrichis: 2
+2025-05-18 21:25:58,391 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,391 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,391 - INFO -       Taux de succès: 66.7%
+2025-05-18 21:25:58,391 - INFO -    collaborateurs_benevoles:
+2025-05-18 21:25:58,392 - INFO -       Total: 5
+2025-05-18 21:25:58,392 - INFO -       Enrichis: 4
+2025-05-18 21:25:58,392 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,392 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,393 - INFO -       Taux de succès: 80.0%
+2025-05-18 21:25:58,393 - INFO -    chercheurs_associes:
+2025-05-18 21:25:58,393 - INFO -       Total: 6
+2025-05-18 21:25:58,393 - INFO -       Enrichis: 5
+2025-05-18 21:25:58,394 - INFO -       Déjà présents: 0
+2025-05-18 21:25:58,394 - INFO -       Erreurs: 0
+2025-05-18 21:25:58,394 - INFO -       Taux de succès: 83.3%
+2025-05-18 21:25:58,394 - INFO - ======================================================================
+2025-05-18 21:25:58,395 - INFO - Connexion MongoDB fermée
+2025-05-18 21:43:25,496 - INFO - Collections disponibles dans listic_personnes: ['emerites', 'administratifs_techniques', 'enseignants_chercheurs', 'complete_structure', 'doctorants', 'doctorants_externes', 'chercheurs_associes', 'collaborateurs_benevoles']
+2025-05-18 21:43:25,498 - INFO - Collection enseignants_chercheurs: 35 documents
+2025-05-18 21:43:25,499 - INFO - Collection emerites: 5 documents
+2025-05-18 21:43:25,500 - INFO - Collection doctorants: 25 documents
+2025-05-18 21:43:25,501 - INFO - Collection doctorants_externes: 2 documents
+2025-05-18 21:43:25,502 - INFO - Collection administratifs_techniques: 3 documents
+2025-05-18 21:43:25,503 - INFO - Collection collaborateurs_benevoles: 5 documents
+2025-05-18 21:43:25,504 - INFO - Collection chercheurs_associes: 6 documents
+2025-05-18 21:43:25,505 - INFO - Connexion MongoDB établie - Base: listic_personnes, Total documents: 81
+2025-05-18 21:43:25,512 - INFO - Collection enseignants_chercheurs: 35 enseignants récupérés
+2025-05-18 21:43:25,514 - INFO - Collection emerites: 5 enseignants récupérés
+2025-05-18 21:43:25,517 - INFO - Collection doctorants: 25 enseignants récupérés
+2025-05-18 21:43:25,519 - INFO - Collection doctorants_externes: 2 enseignants récupérés
+2025-05-18 21:43:25,520 - INFO - Collection administratifs_techniques: 3 enseignants récupérés
+2025-05-18 21:43:25,522 - INFO - Collection collaborateurs_benevoles: 5 enseignants récupérés
+2025-05-18 21:43:25,523 - INFO - Collection chercheurs_associes: 6 enseignants récupérés
+2025-05-18 21:43:25,523 - INFO - Total: 81 enseignants trouvés dans MongoDB
+2025-05-18 21:43:25,523 - INFO - Répartition par collection:
+2025-05-18 21:43:25,524 - INFO -    - enseignants_chercheurs: 35
+2025-05-18 21:43:25,524 - INFO -    - emerites: 5
+2025-05-18 21:43:25,524 - INFO -    - doctorants: 25
+2025-05-18 21:43:25,524 - INFO -    - doctorants_externes: 2
+2025-05-18 21:43:25,524 - INFO -    - administratifs_techniques: 3
+2025-05-18 21:43:25,524 - INFO -    - collaborateurs_benevoles: 5
+2025-05-18 21:43:25,525 - INFO -    - chercheurs_associes: 6
+2025-05-18 21:43:25,525 - INFO - Début de l'enrichissement HAL pour 81 enseignants
+2025-05-18 21:43:25,525 - INFO - Recherche HAL pour: IIham ALLOUI (enseignants_chercheurs)
+2025-05-18 21:43:25,525 - INFO - Recherche HAL pour: Khadija Bousselmi Ep ARFAOUI (enseignants_chercheurs)
+2025-05-18 21:43:36,120 - WARNING - Aucune publication HAL trouvée pour IIham ALLOUI
+2025-05-18 21:43:38,122 - INFO - Recherche HAL pour: Abdourrahmane ATTO (enseignants_chercheurs)
+2025-05-18 21:43:38,123 - INFO - Données HAL déjà présentes pour Abdourrahmane ATTO, ignoré
+2025-05-18 21:43:40,124 - INFO - Recherche HAL pour: Alexandre BENOIT (enseignants_chercheurs)
+2025-05-18 21:43:40,124 - INFO - Données HAL déjà présentes pour Alexandre BENOIT, ignoré
+2025-05-18 21:43:41,580 - ERROR - Requête HAL échouée pour Khadija Bousselmi Ep ARFAOUI: HTTPSConnectionPool(host='api.archives-ouvertes.fr', port=443): Read timed out. (read timeout=15)
+2025-05-18 21:43:41,581 - WARNING - Aucune publication HAL trouvée pour Khadija Bousselmi Ep ARFAOUI
+2025-05-18 21:43:42,126 - INFO - Recherche HAL pour: Éric BENOIT (enseignants_chercheurs)
+2025-05-18 21:43:42,127 - INFO - Données HAL déjà présentes pour Éric BENOIT, ignoré
+2025-05-18 21:43:43,583 - INFO - Recherche HAL pour: Lamia-Amel BERRAH (enseignants_chercheurs)
+2025-05-18 21:43:44,128 - INFO - Recherche HAL pour: Mickaël BETTINELLI (enseignants_chercheurs)
+2025-05-18 21:43:44,128 - INFO - Données HAL déjà présentes pour Mickaël BETTINELLI, ignoré
+2025-05-18 21:43:46,129 - INFO - Recherche HAL pour: Argheesh BHANOT (enseignants_chercheurs)
+2025-05-18 21:43:46,129 - INFO - Données HAL déjà présentes pour Argheesh BHANOT, ignoré
+2025-05-18 21:43:48,130 - INFO - Recherche HAL pour: Julien BOISSIÈRE (enseignants_chercheurs)
+2025-05-18 21:43:48,131 - INFO - Données HAL déjà présentes pour Julien BOISSIÈRE, ignoré
+2025-05-18 21:43:50,133 - INFO - Recherche HAL pour: Reda BOUKEZZOULA (enseignants_chercheurs)
+2025-05-18 21:43:50,134 - INFO - Données HAL déjà présentes pour Reda BOUKEZZOULA, ignoré
+2025-05-18 21:43:52,135 - INFO - Recherche HAL pour: Sorana CIMPAN (enseignants_chercheurs)
+2025-05-18 21:43:52,136 - INFO - Données HAL déjà présentes pour Sorana CIMPAN, ignoré
+2025-05-18 21:43:53,863 - WARNING - Aucune publication HAL trouvée pour Lamia-Amel BERRAH
+2025-05-18 21:43:54,138 - INFO - Recherche HAL pour: Didier COQUIN (enseignants_chercheurs)
+2025-05-18 21:43:54,139 - INFO - Données HAL déjà présentes pour Didier COQUIN, ignoré
+2025-05-18 21:43:54,140 - INFO - Progrès: 10/81 traités (12.3%)
+2025-05-18 21:43:55,865 - INFO - Recherche HAL pour: Vincent COUTURIER (enseignants_chercheurs)
+2025-05-18 21:43:55,866 - INFO - Données HAL déjà présentes pour Vincent COUTURIER, ignoré
+2025-05-18 21:43:56,141 - INFO - Recherche HAL pour: Luc DAMAS (enseignants_chercheurs)
+2025-05-18 21:43:56,141 - INFO - Données HAL déjà présentes pour Luc DAMAS, ignoré
+2025-05-18 21:43:57,868 - INFO - Recherche HAL pour: Yves DUMOND (enseignants_chercheurs)
+2025-05-18 21:43:57,868 - INFO - Données HAL déjà présentes pour Yves DUMOND, ignoré
+2025-05-18 21:43:58,143 - INFO - Recherche HAL pour: Guillaume GINOLHAC (enseignants_chercheurs)
+2025-05-18 21:43:58,143 - INFO - Données HAL déjà présentes pour Guillaume GINOLHAC, ignoré
+2025-05-18 21:43:59,869 - INFO - Recherche HAL pour: Marc-Philippe HUGET (enseignants_chercheurs)
+2025-05-18 21:43:59,869 - INFO - Données HAL déjà présentes pour Marc-Philippe HUGET, ignoré
+2025-05-18 21:44:00,144 - INFO - Recherche HAL pour: Antoine LAVAULT (enseignants_chercheurs)
+2025-05-18 21:44:00,144 - INFO - Données HAL déjà présentes pour Antoine LAVAULT, ignoré
+2025-05-18 21:44:01,871 - INFO - Recherche HAL pour: Christophe LIN KWONG CHON (enseignants_chercheurs)
+2025-05-18 21:44:01,871 - INFO - Données HAL déjà présentes pour Christophe LIN KWONG CHON, ignoré
+2025-05-18 21:44:02,146 - INFO - Recherche HAL pour: Faiza LOUKIL (enseignants_chercheurs)
+2025-05-18 21:44:02,147 - INFO - Données HAL déjà présentes pour Faiza LOUKIL, ignoré
+2025-05-18 21:44:03,872 - INFO - Recherche HAL pour: Nicolas MEGER (enseignants_chercheurs)
+2025-05-18 21:44:03,873 - INFO - Données HAL déjà présentes pour Nicolas MEGER, ignoré
+2025-05-18 21:44:04,149 - INFO - Recherche HAL pour: Yassine MHIRI (enseignants_chercheurs)
+2025-05-18 21:44:04,149 - INFO - Données HAL déjà présentes pour Yassine MHIRI, ignoré
+2025-05-18 21:44:04,150 - INFO - Progrès: 20/81 traités (24.7%)
+2025-05-18 21:44:05,875 - INFO - Recherche HAL pour: Ammar MIAN (enseignants_chercheurs)
+2025-05-18 21:44:05,875 - INFO - Données HAL déjà présentes pour Ammar MIAN, ignoré
+2025-05-18 21:44:06,151 - INFO - Recherche HAL pour: Sébastien MONNET (enseignants_chercheurs)
+2025-05-18 21:44:06,152 - INFO - Données HAL déjà présentes pour Sébastien MONNET, ignoré
+2025-05-18 21:44:07,876 - INFO - Recherche HAL pour: Stéphane PERRIN (enseignants_chercheurs)
+2025-05-18 21:44:07,876 - INFO - Données HAL déjà présentes pour Stéphane PERRIN, ignoré
+2025-05-18 21:44:08,154 - INFO - Recherche HAL pour: Stéphan PLASSART (enseignants_chercheurs)
+2025-05-18 21:44:08,156 - INFO - Données HAL déjà présentes pour Stéphan PLASSART, ignoré
+2025-05-18 21:44:09,877 - INFO - Recherche HAL pour: Frédéric POURRAZ (enseignants_chercheurs)
+2025-05-18 21:44:09,878 - INFO - Données HAL déjà présentes pour Frédéric POURRAZ, ignoré
+2025-05-18 21:44:10,157 - INFO - Recherche HAL pour: Jean-Yves RAMEL (enseignants_chercheurs)
+2025-05-18 21:44:10,158 - INFO - Données HAL déjà présentes pour Jean-Yves RAMEL, ignoré
+2025-05-18 21:44:11,880 - INFO - Recherche HAL pour: Kavé SALAMATIAN (enseignants_chercheurs)
+2025-05-18 21:44:11,881 - INFO - Données HAL déjà présentes pour Kavé SALAMATIAN, ignoré
+2025-05-18 21:44:12,159 - INFO - Recherche HAL pour: David TÉLISSON (enseignants_chercheurs)
+2025-05-18 21:44:12,160 - INFO - Données HAL déjà présentes pour David TÉLISSON, ignoré
+2025-05-18 21:44:13,882 - INFO - Recherche HAL pour: Emmanuel TROUVÉ (enseignants_chercheurs)
+2025-05-18 21:44:13,883 - INFO - Données HAL déjà présentes pour Emmanuel TROUVÉ, ignoré
+2025-05-18 21:44:14,163 - INFO - Recherche HAL pour: Lionel VALET (enseignants_chercheurs)
+2025-05-18 21:44:14,164 - INFO - Données HAL déjà présentes pour Lionel VALET, ignoré
+2025-05-18 21:44:14,165 - INFO - Progrès: 30/81 traités (37.0%)
+2025-05-18 21:44:15,884 - INFO - Recherche HAL pour: Hervé VERJUS (enseignants_chercheurs)
+2025-05-18 21:44:15,885 - INFO - Données HAL déjà présentes pour Hervé VERJUS, ignoré
+2025-05-18 21:44:16,166 - INFO - Recherche HAL pour: Flavien VERNIER (enseignants_chercheurs)
+2025-05-18 21:44:16,167 - INFO - Données HAL déjà présentes pour Flavien VERNIER, ignoré
+2025-05-18 21:44:17,886 - INFO - Recherche HAL pour: Yajing YAN (enseignants_chercheurs)
+2025-05-18 21:44:17,887 - INFO - Données HAL déjà présentes pour Yajing YAN, ignoré
+2025-05-18 21:44:18,168 - INFO - Recherche HAL pour: Philippe BOLON (émérite)
+2025-05-18 21:44:18,170 - INFO - Données HAL déjà présentes pour Philippe BOLON, ignoré
+2025-05-18 21:44:19,891 - INFO - Recherche HAL pour: Richard DAPOIGNY (émérite)
+2025-05-18 21:44:19,892 - INFO - Données HAL déjà présentes pour Richard DAPOIGNY, ignoré
+2025-05-18 21:44:20,171 - INFO - Recherche HAL pour: Laurent FOULLOY (émérite)
+2025-05-18 21:44:20,172 - INFO - Données HAL déjà présentes pour Laurent FOULLOY, ignoré
+2025-05-18 21:44:21,893 - INFO - Recherche HAL pour: Gilles MAURIS (émérite)
+2025-05-18 21:44:21,893 - INFO - Données HAL déjà présentes pour Gilles MAURIS, ignoré
+2025-05-18 21:44:22,172 - INFO - Recherche HAL pour: Christophe ROCHE (émérite)
+2025-05-18 21:44:22,172 - INFO - Données HAL déjà présentes pour Christophe ROCHE, ignoré
+2025-05-18 21:44:23,922 - INFO - Recherche HAL pour: Zaid ALLAL (doctorants)
+2025-05-18 21:44:23,926 - INFO - Données HAL déjà présentes pour Zaid ALLAL, ignoré
+2025-05-18 21:44:24,173 - INFO - Recherche HAL pour: Sabrine BOUAZIZ (doctorants)
+2025-05-18 21:44:24,173 - INFO - Données HAL déjà présentes pour Sabrine BOUAZIZ, ignoré
+2025-05-18 21:44:24,174 - INFO - Progrès: 40/81 traités (49.4%)
+2025-05-18 21:44:25,928 - INFO - Recherche HAL pour: Karima BOUTALBI (doctorants)
+2025-05-18 21:44:25,928 - INFO - Données HAL déjà présentes pour Karima BOUTALBI, ignoré
+2025-05-18 21:44:26,175 - INFO - Recherche HAL pour: Pierre DARDOUILLET (doctorants)
+2025-05-18 21:44:26,175 - INFO - Données HAL déjà présentes pour Pierre DARDOUILLET, ignoré
+2025-05-18 21:44:27,929 - INFO - Recherche HAL pour: Ranya El hadri (doctorants)
+2025-05-18 21:44:27,929 - INFO - Données HAL déjà présentes pour Ranya El hadri, ignoré
+2025-05-18 21:44:28,176 - INFO - Recherche HAL pour: Dana El Hajjar (doctorants)
+2025-05-18 21:44:28,176 - INFO - Données HAL déjà présentes pour Dana El Hajjar, ignoré
+2025-05-18 21:44:29,932 - INFO - Recherche HAL pour: Fatema EL-HUSSEINI (doctorants)
+2025-05-18 21:44:29,932 - INFO - Données HAL déjà présentes pour Fatema EL-HUSSEINI, ignoré
+2025-05-18 21:44:30,177 - INFO - Recherche HAL pour: David ESALE-YOKA (doctorants)
+2025-05-18 21:44:30,779 - WARNING - Aucune publication HAL trouvée pour David ESALE-YOKA
+2025-05-18 21:44:31,934 - INFO - Recherche HAL pour: Youssouph FAYE (doctorants)
+2025-05-18 21:44:31,934 - INFO - Données HAL déjà présentes pour Youssouph FAYE, ignoré
+2025-05-18 21:44:32,780 - INFO - Recherche HAL pour: Romain FERRER (doctorants)
+2025-05-18 21:44:32,780 - INFO - Données HAL déjà présentes pour Romain FERRER, ignoré
+2025-05-18 21:44:33,935 - INFO - Recherche HAL pour: Francesco FLORIS (doctorants)
+2025-05-18 21:44:33,935 - INFO - Données HAL déjà présentes pour Francesco FLORIS, ignoré
+2025-05-18 21:44:34,781 - INFO - Recherche HAL pour: Douba JAFUNO (doctorants)
+2025-05-18 21:44:34,781 - INFO - Données HAL déjà présentes pour Douba JAFUNO, ignoré
+2025-05-18 21:44:34,782 - INFO - Progrès: 50/81 traités (61.7%)
+2025-05-18 21:44:35,937 - INFO - Recherche HAL pour: Utpal KANT (doctorants)
+2025-05-18 21:44:36,354 - WARNING - Aucune publication HAL trouvée pour Utpal KANT
+2025-05-18 21:44:36,782 - INFO - Recherche HAL pour: Andrew MARY HUET DE BAROCHEZ (doctorants)
+2025-05-18 21:44:36,782 - INFO - Données HAL déjà présentes pour Andrew MARY HUET DE BAROCHEZ, ignoré
+2025-05-18 21:44:38,355 - INFO - Recherche HAL pour: Paul MATHIEU (doctorants)
+2025-05-18 21:44:38,356 - INFO - Données HAL déjà présentes pour Paul MATHIEU, ignoré
+2025-05-18 21:44:38,783 - INFO - Recherche HAL pour: Emma MOLIERE (doctorants)
+2025-05-18 21:44:38,783 - INFO - Données HAL déjà présentes pour Emma MOLIERE, ignoré
+2025-05-18 21:44:40,357 - INFO - Recherche HAL pour: Saloua NAAMA (doctorants)
+2025-05-18 21:44:40,569 - WARNING - Aucune publication HAL trouvée pour Saloua NAAMA
+2025-05-18 21:44:40,785 - INFO - Recherche HAL pour: Elimy-Rebeca OJEDA-MENA (doctorants)
+2025-05-18 21:44:41,319 - WARNING - Aucune publication HAL trouvée pour Elimy-Rebeca OJEDA-MENA
+2025-05-18 21:44:42,571 - INFO - Recherche HAL pour: Maria PAPADOPOULOS (doctorants)
+2025-05-18 21:44:42,571 - INFO - Données HAL déjà présentes pour Maria PAPADOPOULOS, ignoré
+2025-05-18 21:44:43,320 - INFO - Recherche HAL pour: Maverick PERROLLAZ (doctorants)
+2025-05-18 21:44:43,589 - WARNING - Aucune publication HAL trouvée pour Maverick PERROLLAZ
+2025-05-18 21:44:44,573 - INFO - Recherche HAL pour: Matteo SALIS (doctorants)
+2025-05-18 21:44:44,574 - INFO - Données HAL déjà présentes pour Matteo SALIS, ignoré
+2025-05-18 21:44:45,591 - INFO - Recherche HAL pour: Georgios SARLAS (doctorants)
+2025-05-18 21:44:45,593 - INFO - Progrès: 60/81 traités (74.1%)
+2025-05-18 21:44:45,885 - WARNING - Aucune publication HAL trouvée pour Georgios SARLAS
+2025-05-18 21:44:46,575 - INFO - Recherche HAL pour: Francois Xavier SIKOUMO FOGUE (doctorants)
+2025-05-18 21:44:46,807 - WARNING - Aucune publication HAL trouvée pour Francois Xavier SIKOUMO FOGUE
+2025-05-18 21:44:47,887 - INFO - Recherche HAL pour: Matthieu VERLYNDE (doctorants)
+2025-05-18 21:44:47,888 - INFO - Données HAL déjà présentes pour Matthieu VERLYNDE, ignoré
+2025-05-18 21:44:48,809 - INFO - Recherche HAL pour: LEA ZUCCALI (doctorants)
+2025-05-18 21:44:49,362 - WARNING - Aucune publication HAL trouvée pour LEA ZUCCALI
+2025-05-18 21:44:49,889 - INFO - Recherche HAL pour: Rémi BEISSON (doctorants_externe)
+2025-05-18 21:44:49,889 - INFO - Données HAL déjà présentes pour Rémi BEISSON, ignoré
+2025-05-18 21:44:51,364 - INFO - Recherche HAL pour: Abdelaziz OUAZZANI CHAHIDI (doctorants_externe)
+2025-05-18 21:44:51,364 - INFO - Données HAL déjà présentes pour Abdelaziz OUAZZANI CHAHIDI, ignoré
+2025-05-18 21:44:51,890 - INFO - Recherche HAL pour: Florent BALDINI (administratif_et_technique)
+2025-05-18 21:44:51,890 - INFO - Données HAL déjà présentes pour Florent BALDINI, ignoré
+2025-05-18 21:44:53,365 - INFO - Recherche HAL pour: Alseny DIALLO (administratif_et_technique)
+2025-05-18 21:44:53,366 - INFO - Données HAL déjà présentes pour Alseny DIALLO, ignoré
+2025-05-18 21:44:53,891 - INFO - Recherche HAL pour: Magali-Lina VIANDAZ (administratif_et_technique)
+2025-05-18 21:44:54,129 - WARNING - Aucune publication HAL trouvée pour Magali-Lina VIANDAZ
+2025-05-18 21:44:55,368 - INFO - Recherche HAL pour: Patrick BARLATIER (collaborateurs_benevoles)
+2025-05-18 21:44:55,368 - INFO - Données HAL déjà présentes pour Patrick BARLATIER, ignoré
+2025-05-18 21:44:56,130 - INFO - Recherche HAL pour: Richard DAPOIGNY (collaborateurs_benevoles)
+2025-05-18 21:44:56,130 - INFO - Données HAL déjà présentes pour Richard DAPOIGNY, ignoré
+2025-05-18 21:44:56,131 - INFO - Progrès: 70/81 traités (86.4%)
+2025-05-18 21:44:57,369 - INFO - Recherche HAL pour: Patrice MOREAUX (collaborateurs_benevoles)
+2025-05-18 21:44:57,369 - INFO - Données HAL déjà présentes pour Patrice MOREAUX, ignoré
+2025-05-18 21:44:58,131 - INFO - Recherche HAL pour: Julien ROCHE (collaborateurs_benevoles)
+2025-05-18 21:44:58,132 - INFO - Données HAL déjà présentes pour Julien ROCHE, ignoré
+2025-05-18 21:44:59,370 - INFO - Recherche HAL pour: Jean-Jacques VINUREL (collaborateurs_benevoles)
+2025-05-18 21:44:59,625 - WARNING - Aucune publication HAL trouvée pour Jean-Jacques VINUREL
+2025-05-18 21:45:00,135 - INFO - Recherche HAL pour: Pascal AYGALINC (chercheurs_associes)
+2025-05-18 21:45:00,135 - INFO - Données HAL déjà présentes pour Pascal AYGALINC, ignoré
+2025-05-18 21:45:01,627 - INFO - Recherche HAL pour: Soizick CALVEZ (chercheurs_associes)
+2025-05-18 21:45:01,948 - WARNING - Aucune publication HAL trouvée pour Soizick CALVEZ
+2025-05-18 21:45:02,137 - INFO - Recherche HAL pour: Éric CHOTIN (chercheurs_associes)
+2025-05-18 21:45:02,138 - INFO - Données HAL déjà présentes pour Éric CHOTIN, ignoré
+2025-05-18 21:45:03,948 - INFO - Recherche HAL pour: Jean-Jacques CURTELIN (chercheurs_associes)
+2025-05-18 21:45:03,950 - INFO - Données HAL déjà présentes pour Jean-Jacques CURTELIN, ignoré
+2025-05-18 21:45:04,139 - INFO - Recherche HAL pour: Pascal MOUILLE (chercheurs_associes)
+2025-05-18 21:45:04,140 - INFO - Données HAL déjà présentes pour Pascal MOUILLE, ignoré
+2025-05-18 21:45:05,951 - INFO - Recherche HAL pour: Maria PAPADOPOULOU (chercheurs_associes)
+2025-05-18 21:45:05,952 - INFO - Données HAL déjà présentes pour Maria PAPADOPOULOU, ignoré
+2025-05-18 21:45:06,143 - INFO - Progrès: 80/81 traités (98.8%)
+2025-05-18 21:45:07,956 - INFO - 
+======================================================================
+2025-05-18 21:45:07,957 - INFO - RAPPORT FINAL D'ENRICHISSEMENT HAL
+2025-05-18 21:45:07,958 - INFO - ======================================================================
+2025-05-18 21:45:07,958 - INFO - Total traités: 81
+2025-05-18 21:45:07,959 - INFO - Enrichis avec succès: 67
+2025-05-18 21:45:07,959 - INFO - Déjà enrichis (ignorés): 0
+2025-05-18 21:45:07,959 - INFO - Erreurs: 0
+2025-05-18 21:45:07,960 - INFO - Taux de succès: 82.7%
+2025-05-18 21:45:07,960 - INFO - 
+STATISTIQUES PAR CATÉGORIE:
+2025-05-18 21:45:07,961 - INFO -    enseignants_chercheurs:
+2025-05-18 21:45:07,961 - INFO -       Total: 35
+2025-05-18 21:45:07,961 - INFO -       Enrichis: 32
+2025-05-18 21:45:07,961 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,961 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,961 - INFO -       Taux de succès: 91.4%
+2025-05-18 21:45:07,962 - INFO -    émérite:
+2025-05-18 21:45:07,962 - INFO -       Total: 5
+2025-05-18 21:45:07,962 - INFO -       Enrichis: 5
+2025-05-18 21:45:07,962 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,962 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,963 - INFO -       Taux de succès: 100.0%
+2025-05-18 21:45:07,963 - INFO -    doctorants:
+2025-05-18 21:45:07,963 - INFO -       Total: 25
+2025-05-18 21:45:07,963 - INFO -       Enrichis: 17
+2025-05-18 21:45:07,963 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,964 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,964 - INFO -       Taux de succès: 68.0%
+2025-05-18 21:45:07,964 - INFO -    doctorants_externe:
+2025-05-18 21:45:07,964 - INFO -       Total: 2
+2025-05-18 21:45:07,965 - INFO -       Enrichis: 2
+2025-05-18 21:45:07,965 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,965 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,965 - INFO -       Taux de succès: 100.0%
+2025-05-18 21:45:07,965 - INFO -    administratif_et_technique:
+2025-05-18 21:45:07,966 - INFO -       Total: 3
+2025-05-18 21:45:07,966 - INFO -       Enrichis: 2
+2025-05-18 21:45:07,966 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,966 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,966 - INFO -       Taux de succès: 66.7%
+2025-05-18 21:45:07,967 - INFO -    collaborateurs_benevoles:
+2025-05-18 21:45:07,967 - INFO -       Total: 5
+2025-05-18 21:45:07,967 - INFO -       Enrichis: 4
+2025-05-18 21:45:07,967 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,967 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,968 - INFO -       Taux de succès: 80.0%
+2025-05-18 21:45:07,968 - INFO -    chercheurs_associes:
+2025-05-18 21:45:07,968 - INFO -       Total: 6
+2025-05-18 21:45:07,968 - INFO -       Enrichis: 5
+2025-05-18 21:45:07,968 - INFO -       Déjà présents: 0
+2025-05-18 21:45:07,968 - INFO -       Erreurs: 0
+2025-05-18 21:45:07,968 - INFO -       Taux de succès: 83.3%
+2025-05-18 21:45:07,968 - INFO - ======================================================================
+2025-05-18 21:45:07,971 - INFO - Connexion MongoDB fermée

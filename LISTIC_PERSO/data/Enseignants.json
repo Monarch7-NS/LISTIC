@@ -357,38 +357,6 @@
             "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/enseignants-chercheurs/christophe-roche/"
         }
     ],
-    "administratif_et_technique": [
-        {
-            "name": "Florent BALDINI",
-            "title": "Assistant ingénieur",
-            "email": null,
-            "phone": null,
-            "fax": null,
-            "office": null,
-            "address": null,
-            "url_listic": null
-        },
-        {
-            "name": "Alseny DIALLO",
-            "title": "Personnel administratif",
-            "email": "alseny.diallo@univ-smb.fr",
-            "phone": "+33(0)450096598",
-            "fax": "+33(0)450096559",
-            "office": "A122",
-            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
-            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/alseny"
-        },
-        {
-            "name": "Magali-Lina VIANDAZ",
-            "title": "Personnel administratif",
-            "email": "Courriel : magali-lina.viandaz@univ-smb.fr",
-            "phone": "+33(0)4500965 80",
-            "fax": "+33(0)450096559",
-            "office": "A134",
-            "address": "LISTIC – Polytech’Annecy-Chambéry, BP 80439, Annecy – 74944 Annecy le Vieux Cedex, France",
-            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/magali-lina-viandaz/"
-        }
-    ],
     "doctorants": [
         {
             "name": "Zaid ALLAL",
@@ -769,6 +737,88 @@
             "Theme": "AFUTE or REGARD",
             "Sujet": "Non trouvé",
             "Résumé": "Non trouvé"
+        }
+    ],
+    "administratif_et_technique": [
+        {
+            "name": "Florent BALDINI",
+            "title": "Assistant ingénieur",
+            "email": null,
+            "phone": null,
+            "fax": null,
+            "office": null,
+            "address": null,
+            "url_listic": null
+        },
+        {
+            "name": "Alseny DIALLO",
+            "title": "Personnel administratif",
+            "email": "alseny.diallo@univ-smb.fr",
+            "phone": "+33(0)450096598",
+            "fax": "+33(0)450096559",
+            "office": "A122",
+            "address": "LISTIC – Polytech’Savoie, BP 80439, 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/alseny"
+        },
+        {
+            "name": "Magali-Lina VIANDAZ",
+            "title": "Personnel administratif",
+            "email": "Courriel : magali-lina.viandaz@univ-smb.fr",
+            "phone": "+33(0)4500965 80",
+            "fax": "+33(0)450096559",
+            "office": "A134",
+            "address": "LISTIC – Polytech’Annecy-Chambéry, BP 80439, Annecy – 74944 Annecy le Vieux Cedex, France",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/administratifs-techniques/magali-lina-viandaz/"
+        }
+    ],
+    "collaborateurs_benevoles": [
+        {
+            "name": "Patrick BARLATIER",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/collaborateurs-benevoles/patrick-barlatier/",
+            "email": "patrick.barlatier@univ-smb.fr",
+            "Theme": "Ontologies - Type Dependent Conceptualization - AI"
+        },
+        {
+            "name": "Richard DAPOIGNY",
+            "url_listic": "https://www.univ-smb.fr/listic/en/presentation_listic/membres/collaborateurs-benevoles/richard-dapoigny/",
+            "email": " richard.dapoigny@univ-smb.fr",
+            "phone": " 0621353143",
+            "adresse": " LISTIC, Polytech Annecy-Chambéry, 5 chemin de bellevue, Annecy-le-vieux, 74 940 Annecy"
+        },
+        {
+            "name": "Patrice MOREAUX"
+        },
+        {
+            "name": "Julien ROCHE"
+        },
+        {
+            "name": "Jean-Jacques VINUREL"
+        }
+    ],
+    "chercheurs_associes": [
+        {
+            "name": "Pascal AYGALINC"
+        },
+        {
+            "name": "Soizick CALVEZ"
+        },
+        {
+            "name": "Éric CHOTIN"
+        },
+        {
+            "name": "Jean-Jacques CURTELIN"
+        },
+        {
+            "name": "Pascal MOUILLE"
+        },
+        {
+            "name": "Maria PAPADOPOULOU",
+            "url_listic": "https://www.univ-smb.fr/listic/presentation/membres/chercheurs-associes/maria-papadopoulou/",
+            "email": "maria.papadopoulou@univ-savoie.fr",
+            "phone": "+33 (0) 479 758 779",
+            "adresse": "Bâtiment Polytech, Campus Scientifique, Université Savoie Mont-Blanc, 73 376 Le Bourget du Lac cedex, France",
+            "website": "http://o4dh.com/maria-papadopoulou",
+            "Theme": "Classics, Linguistics, Digital Humanities, Semantic Web, Ontology, Terminology"
         }
     ]
 }

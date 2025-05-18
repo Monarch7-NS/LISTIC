@@ -1,0 +1,295 @@
+2025-05-18 21:36:13,372 - INFO - Collections disponibles dans listic_personnes: ['emerites', 'administratifs_techniques', 'enseignants_chercheurs', 'complete_structure', 'doctorants', 'doctorants_externes', 'chercheurs_associes', 'collaborateurs_benevoles']
+2025-05-18 21:36:13,375 - INFO - Collection enseignants_chercheurs: 35 documents
+2025-05-18 21:36:13,375 - INFO - Collection emerites: 5 documents
+2025-05-18 21:36:13,376 - INFO - Collection doctorants: 25 documents
+2025-05-18 21:36:13,377 - INFO - Collection doctorants_externes: 2 documents
+2025-05-18 21:36:13,380 - INFO - Collection administratifs_techniques: 3 documents
+2025-05-18 21:36:13,381 - INFO - Collection collaborateurs_benevoles: 5 documents
+2025-05-18 21:36:13,381 - INFO - Collection chercheurs_associes: 6 documents
+2025-05-18 21:36:13,382 - INFO - Connexion MongoDB établie - Base: listic_personnes, Collection: enseignants_chercheurs, Documents: 35
+2025-05-18 21:36:13,382 - ERROR - Erreur lors de la récupération des enseignants: 'DBLPMongoEnricher' object has no attribute 'valid_collections'
+2025-05-18 21:36:13,383 - INFO - Tentative de récupération depuis plusieurs collections...
+2025-05-18 21:36:13,393 - INFO - Collection enseignants_chercheurs: 35 documents
+2025-05-18 21:36:13,397 - INFO - Collection doctorants: 25 documents
+2025-05-18 21:36:13,399 - INFO - Collection doctorants_externes: 2 documents
+2025-05-18 21:36:13,401 - INFO - Collection administratifs_techniques: 3 documents
+2025-05-18 21:36:13,404 - INFO - Collection collaborateurs_benevoles: 5 documents
+2025-05-18 21:36:13,406 - INFO - Collection chercheurs_associes: 6 documents
+2025-05-18 21:36:13,409 - INFO - Collection emerites: 5 documents
+2025-05-18 21:36:13,410 - INFO - Total: 81 enseignants trouvés depuis multiples collections
+2025-05-18 21:36:13,410 - INFO - Début de l'enrichissement pour 81 enseignants (toutes catégories)
+2025-05-18 21:36:13,411 - INFO - Recherche DBLP pour: IIham ALLOUI (enseignants_chercheurs)
+2025-05-18 21:36:13,412 - INFO - Recherche DBLP pour: Khadija Bousselmi Ep ARFAOUI (enseignants_chercheurs)
+2025-05-18 21:36:13,413 - INFO - Recherche DBLP pour: Abdourrahmane ATTO (enseignants_chercheurs)
+2025-05-18 21:36:14,525 - WARNING - Aucun profil d'auteur trouvé pour IIham ALLOUI
+2025-05-18 21:36:14,540 - WARNING - Aucun profil d'auteur trouvé pour Khadija Bousselmi Ep ARFAOUI
+2025-05-18 21:36:16,032 - INFO - Recherche DBLP pour: Alexandre BENOIT (enseignants_chercheurs)
+2025-05-18 21:36:16,041 - INFO - Recherche DBLP pour: Éric BENOIT (enseignants_chercheurs)
+2025-05-18 21:36:16,927 - ERROR - Erreur lors de la recherche DBLP pour Alexandre BENOIT: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:36:17,967 - INFO - DBLP: Abdourrahmane ATTO (enseignants_chercheurs) - 72 publications trouvées
+2025-05-18 21:36:17,970 - INFO - MongoDB: Données DBLP mises à jour pour Abdourrahmane ATTO dans enseignants_chercheurs
+2025-05-18 21:36:18,429 - INFO - Recherche DBLP pour: Lamia-Amel BERRAH (enseignants_chercheurs)
+2025-05-18 21:36:18,816 - WARNING - Aucun profil d'auteur trouvé pour Lamia-Amel BERRAH
+2025-05-18 21:36:19,470 - INFO - Recherche DBLP pour: Mickaël BETTINELLI (enseignants_chercheurs)
+2025-05-18 21:36:20,323 - INFO - Recherche DBLP pour: Argheesh BHANOT (enseignants_chercheurs)
+2025-05-18 21:36:20,482 - INFO - DBLP: Éric BENOIT (enseignants_chercheurs) - 28 publications trouvées
+2025-05-18 21:36:20,483 - INFO - MongoDB: Données DBLP mises à jour pour Éric BENOIT dans enseignants_chercheurs
+2025-05-18 21:36:21,984 - INFO - Recherche DBLP pour: Julien BOISSIÈRE (enseignants_chercheurs)
+2025-05-18 21:36:22,192 - INFO - DBLP: Mickaël BETTINELLI (enseignants_chercheurs) - 8 publications trouvées
+2025-05-18 21:36:22,194 - INFO - MongoDB: Données DBLP mises à jour pour Mickaël BETTINELLI dans enseignants_chercheurs
+2025-05-18 21:36:22,277 - INFO - DBLP: Argheesh BHANOT (enseignants_chercheurs) - 2 publications trouvées
+2025-05-18 21:36:22,278 - INFO - MongoDB: Données DBLP mises à jour pour Argheesh BHANOT dans enseignants_chercheurs
+2025-05-18 21:36:23,702 - INFO - Recherche DBLP pour: Reda BOUKEZZOULA (enseignants_chercheurs)
+2025-05-18 21:36:23,780 - INFO - Recherche DBLP pour: Sorana CIMPAN (enseignants_chercheurs)
+2025-05-18 21:36:24,081 - ERROR - Erreur lors de la recherche DBLP pour Sorana CIMPAN: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:36:25,582 - INFO - Recherche DBLP pour: Didier COQUIN (enseignants_chercheurs)
+2025-05-18 21:36:29,642 - INFO - DBLP: Julien BOISSIÈRE (enseignants_chercheurs) - 6 publications trouvées
+2025-05-18 21:36:29,644 - INFO - MongoDB: Données DBLP mises à jour pour Julien BOISSIÈRE dans enseignants_chercheurs
+2025-05-18 21:36:31,145 - INFO - Recherche DBLP pour: Vincent COUTURIER (enseignants_chercheurs)
+2025-05-18 21:36:31,148 - INFO - Progrès: 10/81 traités (12.3%)
+2025-05-18 21:36:34,529 - INFO - DBLP: Reda BOUKEZZOULA (enseignants_chercheurs) - 66 publications trouvées
+2025-05-18 21:36:34,532 - INFO - MongoDB: Données DBLP mises à jour pour Reda BOUKEZZOULA dans enseignants_chercheurs
+2025-05-18 21:36:35,542 - INFO - DBLP: Vincent COUTURIER (enseignants_chercheurs) - 12 publications trouvées
+2025-05-18 21:36:35,623 - INFO - MongoDB: Données DBLP mises à jour pour Vincent COUTURIER dans enseignants_chercheurs
+2025-05-18 21:36:35,837 - INFO - DBLP: Didier COQUIN (enseignants_chercheurs) - 62 publications trouvées
+2025-05-18 21:36:35,839 - INFO - MongoDB: Données DBLP mises à jour pour Didier COQUIN dans enseignants_chercheurs
+2025-05-18 21:36:36,033 - INFO - Recherche DBLP pour: Luc DAMAS (enseignants_chercheurs)
+2025-05-18 21:36:37,153 - INFO - Recherche DBLP pour: Yves DUMOND (enseignants_chercheurs)
+2025-05-18 21:36:37,340 - INFO - Recherche DBLP pour: Guillaume GINOLHAC (enseignants_chercheurs)
+2025-05-18 21:36:38,101 - ERROR - Erreur lors de la recherche DBLP pour Luc DAMAS: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:36:39,602 - INFO - Recherche DBLP pour: Marc-Philippe HUGET (enseignants_chercheurs)
+2025-05-18 21:36:48,548 - ERROR - Erreur lors de la recherche DBLP pour Yves DUMOND: HTTPSConnectionPool(host='dblp.org', port=443): Read timed out. (read timeout=10)
+2025-05-18 21:36:48,881 - INFO - DBLP: Guillaume GINOLHAC (enseignants_chercheurs) - 106 publications trouvées
+2025-05-18 21:36:48,884 - INFO - MongoDB: Données DBLP mises à jour pour Guillaume GINOLHAC dans enseignants_chercheurs
+2025-05-18 21:36:50,065 - INFO - Recherche DBLP pour: Antoine LAVAULT (enseignants_chercheurs)
+2025-05-18 21:36:50,385 - INFO - Recherche DBLP pour: Christophe LIN KWONG CHON (enseignants_chercheurs)
+2025-05-18 21:36:50,513 - ERROR - Erreur lors de la recherche DBLP pour Antoine LAVAULT: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:36:52,015 - INFO - Recherche DBLP pour: Faiza LOUKIL (enseignants_chercheurs)
+2025-05-18 21:36:54,265 - ERROR - Erreur lors de la recherche DBLP pour Christophe LIN KWONG CHON: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-18 21:36:55,766 - INFO - Recherche DBLP pour: Nicolas MEGER (enseignants_chercheurs)
+2025-05-18 21:36:57,639 - ERROR - Erreur lors de la recherche DBLP pour Nicolas MEGER: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-18 21:36:57,889 - INFO - DBLP: Faiza LOUKIL (enseignants_chercheurs) - 20 publications trouvées
+2025-05-18 21:36:57,936 - INFO - MongoDB: Données DBLP mises à jour pour Faiza LOUKIL dans enseignants_chercheurs
+2025-05-18 21:36:58,198 - INFO - DBLP: Marc-Philippe HUGET (enseignants_chercheurs) - 42 publications trouvées
+2025-05-18 21:36:58,200 - INFO - MongoDB: Données DBLP mises à jour pour Marc-Philippe HUGET dans enseignants_chercheurs
+2025-05-18 21:36:59,141 - INFO - Recherche DBLP pour: Yassine MHIRI (enseignants_chercheurs)
+2025-05-18 21:36:59,452 - INFO - Recherche DBLP pour: Ammar MIAN (enseignants_chercheurs)
+2025-05-18 21:36:59,453 - INFO - Progrès: 20/81 traités (24.7%)
+2025-05-18 21:36:59,701 - INFO - Recherche DBLP pour: Sébastien MONNET (enseignants_chercheurs)
+2025-05-18 21:37:00,506 - ERROR - Erreur lors de la recherche DBLP pour Ammar MIAN: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-18 21:37:01,078 - INFO - DBLP: Yassine MHIRI (enseignants_chercheurs) - 7 publications trouvées
+2025-05-18 21:37:01,126 - INFO - MongoDB: Données DBLP mises à jour pour Yassine MHIRI dans enseignants_chercheurs
+2025-05-18 21:37:01,283 - INFO - DBLP: Sébastien MONNET (enseignants_chercheurs) - 53 publications trouvées
+2025-05-18 21:37:01,285 - INFO - MongoDB: Données DBLP mises à jour pour Sébastien MONNET dans enseignants_chercheurs
+2025-05-18 21:37:02,012 - INFO - Recherche DBLP pour: Stéphane PERRIN (enseignants_chercheurs)
+2025-05-18 21:37:02,643 - INFO - Recherche DBLP pour: Stéphan PLASSART (enseignants_chercheurs)
+2025-05-18 21:37:02,787 - INFO - Recherche DBLP pour: Frédéric POURRAZ (enseignants_chercheurs)
+2025-05-18 21:37:06,619 - INFO - DBLP: Frédéric POURRAZ (enseignants_chercheurs) - 18 publications trouvées
+2025-05-18 21:37:06,628 - INFO - MongoDB: Données DBLP mises à jour pour Frédéric POURRAZ dans enseignants_chercheurs
+2025-05-18 21:37:06,877 - INFO - DBLP: Stéphane PERRIN (enseignants_chercheurs) - 22 publications trouvées
+2025-05-18 21:37:06,879 - INFO - MongoDB: Données DBLP mises à jour pour Stéphane PERRIN dans enseignants_chercheurs
+2025-05-18 21:37:08,145 - INFO - Recherche DBLP pour: Jean-Yves RAMEL (enseignants_chercheurs)
+2025-05-18 21:37:08,380 - INFO - Recherche DBLP pour: Kavé SALAMATIAN (enseignants_chercheurs)
+2025-05-18 21:37:10,302 - INFO - DBLP: Stéphan PLASSART (enseignants_chercheurs) - 10 publications trouvées
+2025-05-18 21:37:10,303 - INFO - MongoDB: Données DBLP mises à jour pour Stéphan PLASSART dans enseignants_chercheurs
+2025-05-18 21:37:11,804 - INFO - Recherche DBLP pour: David TÉLISSON (enseignants_chercheurs)
+2025-05-18 21:37:12,682 - ERROR - Erreur lors de la recherche DBLP pour David TÉLISSON: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:37:13,559 - INFO - DBLP: Jean-Yves RAMEL (enseignants_chercheurs) - 105 publications trouvées
+2025-05-18 21:37:13,661 - INFO - MongoDB: Données DBLP mises à jour pour Jean-Yves RAMEL dans enseignants_chercheurs
+2025-05-18 21:37:13,861 - INFO - DBLP: Kavé SALAMATIAN (enseignants_chercheurs) - 125 publications trouvées
+2025-05-18 21:37:13,863 - INFO - MongoDB: Données DBLP mises à jour pour Kavé SALAMATIAN dans enseignants_chercheurs
+2025-05-18 21:37:14,230 - INFO - Recherche DBLP pour: Emmanuel TROUVÉ (enseignants_chercheurs)
+2025-05-18 21:37:15,178 - INFO - Recherche DBLP pour: Lionel VALET (enseignants_chercheurs)
+2025-05-18 21:37:15,364 - INFO - Recherche DBLP pour: Hervé VERJUS (enseignants_chercheurs)
+2025-05-18 21:37:15,367 - INFO - Progrès: 30/81 traités (37.0%)
+2025-05-18 21:37:23,736 - INFO - DBLP: Emmanuel TROUVÉ (enseignants_chercheurs) - 95 publications trouvées
+2025-05-18 21:37:23,737 - INFO - MongoDB: Données DBLP mises à jour pour Emmanuel TROUVÉ dans enseignants_chercheurs
+2025-05-18 21:37:25,239 - INFO - Recherche DBLP pour: Flavien VERNIER (enseignants_chercheurs)
+2025-05-18 21:37:28,267 - INFO - DBLP: Lionel VALET (enseignants_chercheurs) - 28 publications trouvées
+2025-05-18 21:37:28,269 - INFO - MongoDB: Données DBLP mises à jour pour Lionel VALET dans enseignants_chercheurs
+2025-05-18 21:37:29,771 - INFO - Recherche DBLP pour: Yajing YAN (enseignants_chercheurs)
+2025-05-18 21:37:31,984 - ERROR - Erreur lors de la recherche DBLP pour Yajing YAN: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:37:33,135 - INFO - DBLP: Hervé VERJUS (enseignants_chercheurs) - 55 publications trouvées
+2025-05-18 21:37:33,136 - INFO - MongoDB: Données DBLP mises à jour pour Hervé VERJUS dans enseignants_chercheurs
+2025-05-18 21:37:33,487 - INFO - Recherche DBLP pour: Zaid ALLAL (doctorants)
+2025-05-18 21:37:34,637 - INFO - Recherche DBLP pour: Sabrine BOUAZIZ (doctorants)
+2025-05-18 21:37:35,601 - WARNING - Aucun profil d'auteur trouvé pour Sabrine BOUAZIZ
+2025-05-18 21:37:37,102 - INFO - Recherche DBLP pour: Karima BOUTALBI (doctorants)
+2025-05-18 21:37:39,416 - ERROR - Erreur lors de la recherche DBLP pour Flavien VERNIER: HTTPSConnectionPool(host='dblp.org', port=443): Read timed out. (read timeout=10)
+2025-05-18 21:37:40,918 - INFO - Recherche DBLP pour: Pierre DARDOUILLET (doctorants)
+2025-05-18 21:37:41,067 - INFO - DBLP: Zaid ALLAL (doctorants) - 5 publications trouvées
+2025-05-18 21:37:41,069 - INFO - MongoDB: Données DBLP mises à jour pour Zaid ALLAL dans doctorants
+2025-05-18 21:37:42,570 - INFO - Recherche DBLP pour: Ranya El hadri (doctorants)
+2025-05-18 21:37:49,204 - INFO - DBLP: Karima BOUTALBI (doctorants) - 4 publications trouvées
+2025-05-18 21:37:49,270 - INFO - MongoDB: Données DBLP mises à jour pour Karima BOUTALBI dans doctorants
+2025-05-18 21:37:49,320 - INFO - DBLP: Pierre DARDOUILLET (doctorants) - 4 publications trouvées
+2025-05-18 21:37:49,321 - INFO - MongoDB: Données DBLP mises à jour pour Pierre DARDOUILLET dans doctorants
+2025-05-18 21:37:50,782 - INFO - Recherche DBLP pour: Dana El Hajjar (doctorants)
+2025-05-18 21:37:50,823 - INFO - Recherche DBLP pour: Fatema EL-HUSSEINI (doctorants)
+2025-05-18 21:37:51,838 - INFO - DBLP: Ranya El hadri (doctorants) - 2 publications trouvées
+2025-05-18 21:37:51,840 - INFO - MongoDB: Données DBLP mises à jour pour Ranya El hadri dans doctorants
+2025-05-18 21:37:53,342 - INFO - Recherche DBLP pour: David ESALE-YOKA (doctorants)
+2025-05-18 21:37:53,344 - INFO - Progrès: 40/81 traités (49.4%)
+2025-05-18 21:37:54,898 - WARNING - Aucun profil d'auteur trouvé pour David ESALE-YOKA
+2025-05-18 21:37:56,400 - INFO - Recherche DBLP pour: Youssouph FAYE (doctorants)
+2025-05-18 21:37:57,522 - INFO - DBLP: Dana El Hajjar (doctorants) - 2 publications trouvées
+2025-05-18 21:37:57,524 - INFO - MongoDB: Données DBLP mises à jour pour Dana El Hajjar dans doctorants
+2025-05-18 21:37:57,564 - INFO - DBLP: Fatema EL-HUSSEINI (doctorants) - 3 publications trouvées
+2025-05-18 21:37:57,565 - INFO - MongoDB: Données DBLP mises à jour pour Fatema EL-HUSSEINI dans doctorants
+2025-05-18 21:37:59,025 - INFO - Recherche DBLP pour: Romain FERRER (doctorants)
+2025-05-18 21:37:59,067 - INFO - Recherche DBLP pour: Francesco FLORIS (doctorants)
+2025-05-18 21:37:59,495 - WARNING - Aucun profil d'auteur trouvé pour Romain FERRER
+2025-05-18 21:37:59,602 - INFO - DBLP: Youssouph FAYE (doctorants) - 1 publications trouvées
+2025-05-18 21:37:59,604 - INFO - MongoDB: Données DBLP mises à jour pour Youssouph FAYE dans doctorants
+2025-05-18 21:38:00,997 - INFO - Recherche DBLP pour: Douba JAFUNO (doctorants)
+2025-05-18 21:38:01,105 - INFO - Recherche DBLP pour: Utpal KANT (doctorants)
+2025-05-18 21:38:01,342 - WARNING - Aucun profil d'auteur trouvé pour Utpal KANT
+2025-05-18 21:38:02,845 - INFO - Recherche DBLP pour: Andrew MARY HUET DE BAROCHEZ (doctorants)
+2025-05-18 21:38:05,672 - INFO - DBLP: Douba JAFUNO (doctorants) - 3 publications trouvées
+2025-05-18 21:38:05,674 - INFO - MongoDB: Données DBLP mises à jour pour Douba JAFUNO dans doctorants
+2025-05-18 21:38:06,758 - INFO - DBLP: Francesco FLORIS (doctorants) - 8 publications trouvées
+2025-05-18 21:38:06,760 - INFO - MongoDB: Données DBLP mises à jour pour Francesco FLORIS dans doctorants
+2025-05-18 21:38:07,175 - INFO - Recherche DBLP pour: Paul MATHIEU (doctorants)
+2025-05-18 21:38:08,260 - INFO - Recherche DBLP pour: Emma MOLIERE (doctorants)
+2025-05-18 21:38:09,134 - WARNING - Aucun profil d'auteur trouvé pour Emma MOLIERE
+2025-05-18 21:38:10,635 - INFO - Recherche DBLP pour: Saloua NAAMA (doctorants)
+2025-05-18 21:38:13,702 - INFO - DBLP: Andrew MARY HUET DE BAROCHEZ (doctorants) - 1 publications trouvées
+2025-05-18 21:38:13,704 - INFO - MongoDB: Données DBLP mises à jour pour Andrew MARY HUET DE BAROCHEZ dans doctorants
+2025-05-18 21:38:15,205 - INFO - Recherche DBLP pour: Elimy-Rebeca OJEDA-MENA (doctorants)
+2025-05-18 21:38:15,207 - INFO - Progrès: 50/81 traités (61.7%)
+2025-05-18 21:38:15,754 - WARNING - Aucun profil d'auteur trouvé pour Elimy-Rebeca OJEDA-MENA
+2025-05-18 21:38:17,255 - INFO - Recherche DBLP pour: Maria PAPADOPOULOS (doctorants)
+2025-05-18 21:38:18,468 - INFO - DBLP: Paul MATHIEU (doctorants) - 2 publications trouvées
+2025-05-18 21:38:18,470 - INFO - MongoDB: Données DBLP mises à jour pour Paul MATHIEU dans doctorants
+2025-05-18 21:38:18,533 - INFO - DBLP: Saloua NAAMA (doctorants) - 2 publications trouvées
+2025-05-18 21:38:18,535 - INFO - MongoDB: Données DBLP mises à jour pour Saloua NAAMA dans doctorants
+2025-05-18 21:38:19,971 - INFO - Recherche DBLP pour: Maverick PERROLLAZ (doctorants)
+2025-05-18 21:38:20,036 - INFO - Recherche DBLP pour: Matteo SALIS (doctorants)
+2025-05-18 21:38:20,227 - WARNING - Aucun profil d'auteur trouvé pour Maverick PERROLLAZ
+2025-05-18 21:38:21,728 - INFO - Recherche DBLP pour: Georgios SARLAS (doctorants)
+2025-05-18 21:38:25,344 - INFO - DBLP: Maria PAPADOPOULOS (doctorants) - 1 publications trouvées
+2025-05-18 21:38:25,346 - INFO - MongoDB: Données DBLP mises à jour pour Maria PAPADOPOULOS dans doctorants
+2025-05-18 21:38:26,848 - INFO - Recherche DBLP pour: Francois Xavier SIKOUMO FOGUE (doctorants)
+2025-05-18 21:38:27,699 - WARNING - Aucun profil d'auteur trouvé pour Francois Xavier SIKOUMO FOGUE
+2025-05-18 21:38:27,764 - INFO - DBLP: Matteo SALIS (doctorants) - 4 publications trouvées
+2025-05-18 21:38:27,766 - INFO - MongoDB: Données DBLP mises à jour pour Matteo SALIS dans doctorants
+2025-05-18 21:38:29,200 - INFO - Recherche DBLP pour: Matthieu VERLYNDE (doctorants)
+2025-05-18 21:38:29,267 - INFO - Recherche DBLP pour: LEA ZUCCALI (doctorants)
+2025-05-18 21:38:30,739 - WARNING - Aucun profil d'auteur trouvé pour Matthieu VERLYNDE
+2025-05-18 21:38:30,785 - WARNING - Aucun profil d'auteur trouvé pour LEA ZUCCALI
+2025-05-18 21:38:32,259 - INFO - Recherche DBLP pour: Rémi BEISSON (doctorants_externe)
+2025-05-18 21:38:32,287 - INFO - Recherche DBLP pour: Abdelaziz OUAZZANI CHAHIDI (doctorants_externe)
+2025-05-18 21:38:34,104 - INFO - DBLP: Georgios SARLAS (doctorants) - 3 publications trouvées
+2025-05-18 21:38:34,106 - INFO - MongoDB: Données DBLP mises à jour pour Georgios SARLAS dans doctorants
+2025-05-18 21:38:35,607 - INFO - Recherche DBLP pour: Florent BALDINI (administratif_et_technique)
+2025-05-18 21:38:35,608 - INFO - Progrès: 60/81 traités (74.1%)
+2025-05-18 21:38:35,934 - WARNING - Aucun profil d'auteur trouvé pour Florent BALDINI
+2025-05-18 21:38:37,436 - INFO - Recherche DBLP pour: Alseny DIALLO (administratif_et_technique)
+2025-05-18 21:38:38,643 - INFO - DBLP: Rémi BEISSON (doctorants_externe) - 3 publications trouvées
+2025-05-18 21:38:38,645 - INFO - MongoDB: Données DBLP mises à jour pour Rémi BEISSON dans doctorants_externes
+2025-05-18 21:38:39,927 - INFO - DBLP: Abdelaziz OUAZZANI CHAHIDI (doctorants_externe) - 2 publications trouvées
+2025-05-18 21:38:39,929 - INFO - MongoDB: Données DBLP mises à jour pour Abdelaziz OUAZZANI CHAHIDI dans doctorants_externes
+2025-05-18 21:38:40,146 - INFO - Recherche DBLP pour: Magali-Lina VIANDAZ (administratif_et_technique)
+2025-05-18 21:38:40,436 - WARNING - Aucun profil d'auteur trouvé pour Magali-Lina VIANDAZ
+2025-05-18 21:38:41,430 - INFO - Recherche DBLP pour: Patrick BARLATIER (collaborateurs_benevoles)
+2025-05-18 21:38:41,937 - INFO - Recherche DBLP pour: Richard DAPOIGNY (collaborateurs_benevoles)
+2025-05-18 21:38:43,345 - INFO - DBLP: Alseny DIALLO (administratif_et_technique) - 1 publications trouvées
+2025-05-18 21:38:43,347 - INFO - MongoDB: Données DBLP mises à jour pour Alseny DIALLO dans administratifs_techniques
+2025-05-18 21:38:44,848 - INFO - Recherche DBLP pour: Patrice MOREAUX (collaborateurs_benevoles)
+2025-05-18 21:38:46,890 - INFO - DBLP: Patrick BARLATIER (collaborateurs_benevoles) - 27 publications trouvées
+2025-05-18 21:38:46,892 - INFO - MongoDB: Données DBLP mises à jour pour Patrick BARLATIER dans collaborateurs_benevoles
+2025-05-18 21:38:48,394 - INFO - Recherche DBLP pour: Julien ROCHE (collaborateurs_benevoles)
+2025-05-18 21:38:50,996 - INFO - DBLP: Patrice MOREAUX (collaborateurs_benevoles) - 26 publications trouvées
+2025-05-18 21:38:50,998 - INFO - MongoDB: Données DBLP mises à jour pour Patrice MOREAUX dans collaborateurs_benevoles
+2025-05-18 21:38:52,297 - INFO - DBLP: Richard DAPOIGNY (collaborateurs_benevoles) - 40 publications trouvées
+2025-05-18 21:38:52,299 - INFO - MongoDB: Données DBLP mises à jour pour Richard DAPOIGNY dans collaborateurs_benevoles
+2025-05-18 21:38:52,499 - INFO - Recherche DBLP pour: Jean-Jacques VINUREL (collaborateurs_benevoles)
+2025-05-18 21:38:52,811 - WARNING - Aucun profil d'auteur trouvé pour Jean-Jacques VINUREL
+2025-05-18 21:38:53,799 - INFO - Recherche DBLP pour: Pascal AYGALINC (chercheurs_associes)
+2025-05-18 21:38:54,313 - INFO - Recherche DBLP pour: Soizick CALVEZ (chercheurs_associes)
+2025-05-18 21:38:55,118 - INFO - DBLP: Julien ROCHE (collaborateurs_benevoles) - 5 publications trouvées
+2025-05-18 21:38:55,120 - INFO - MongoDB: Données DBLP mises à jour pour Julien ROCHE dans collaborateurs_benevoles
+2025-05-18 21:38:56,621 - INFO - Recherche DBLP pour: Éric CHOTIN (chercheurs_associes)
+2025-05-18 21:38:56,623 - INFO - Progrès: 70/81 traités (86.4%)
+2025-05-18 21:38:59,996 - INFO - DBLP: Soizick CALVEZ (chercheurs_associes) - 4 publications trouvées
+2025-05-18 21:38:59,997 - INFO - MongoDB: Données DBLP mises à jour pour Soizick CALVEZ dans chercheurs_associes
+2025-05-18 21:39:01,048 - INFO - DBLP: Pascal AYGALINC (chercheurs_associes) - 5 publications trouvées
+2025-05-18 21:39:01,048 - INFO - MongoDB: Données DBLP mises à jour pour Pascal AYGALINC dans chercheurs_associes
+2025-05-18 21:39:01,499 - INFO - Recherche DBLP pour: Jean-Jacques CURTELIN (chercheurs_associes)
+2025-05-18 21:39:01,828 - WARNING - Aucun profil d'auteur trouvé pour Jean-Jacques CURTELIN
+2025-05-18 21:39:02,550 - INFO - Recherche DBLP pour: Pascal MOUILLE (chercheurs_associes)
+2025-05-18 21:39:02,977 - WARNING - Aucun profil d'auteur trouvé pour Pascal MOUILLE
+2025-05-18 21:39:03,330 - INFO - Recherche DBLP pour: Maria PAPADOPOULOU (chercheurs_associes)
+2025-05-18 21:39:04,133 - ERROR - Erreur lors de la recherche DBLP pour Maria PAPADOPOULOU: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:39:04,479 - INFO - Recherche DBLP pour: Philippe BOLON (émérite)
+2025-05-18 21:39:05,635 - INFO - Recherche DBLP pour: Richard DAPOIGNY (émérite)
+2025-05-18 21:39:09,146 - INFO - DBLP: Éric CHOTIN (chercheurs_associes) - 1 publications trouvées
+2025-05-18 21:39:09,148 - INFO - MongoDB: Données DBLP mises à jour pour Éric CHOTIN dans chercheurs_associes
+2025-05-18 21:39:10,648 - INFO - Recherche DBLP pour: Laurent FOULLOY (émérite)
+2025-05-18 21:39:16,534 - INFO - DBLP: Richard DAPOIGNY (émérite) - 40 publications trouvées
+2025-05-18 21:39:16,667 - INFO - MongoDB: Données DBLP mises à jour pour Richard DAPOIGNY dans emerites
+2025-05-18 21:39:17,100 - INFO - DBLP: Philippe BOLON (émérite) - 75 publications trouvées
+2025-05-18 21:39:17,103 - INFO - MongoDB: Données DBLP mises à jour pour Philippe BOLON dans emerites
+2025-05-18 21:39:18,182 - INFO - Recherche DBLP pour: Gilles MAURIS (émérite)
+2025-05-18 21:39:18,603 - INFO - Recherche DBLP pour: Christophe ROCHE (émérite)
+2025-05-18 21:39:20,199 - ERROR - Erreur lors de la recherche DBLP pour Christophe ROCHE: cannot access local variable 'author_soup' where it is not associated with a value
+2025-05-18 21:39:26,150 - INFO - DBLP: Laurent FOULLOY (émérite) - 63 publications trouvées
+2025-05-18 21:39:26,152 - INFO - MongoDB: Données DBLP mises à jour pour Laurent FOULLOY dans emerites
+2025-05-18 21:39:27,654 - INFO - Progrès: 80/81 traités (98.8%)
+2025-05-18 21:39:32,098 - INFO - DBLP: Gilles MAURIS (émérite) - 67 publications trouvées
+2025-05-18 21:39:32,101 - INFO - MongoDB: Données DBLP mises à jour pour Gilles MAURIS dans emerites
+2025-05-18 21:39:33,604 - INFO - 
+======================================================================
+2025-05-18 21:39:33,605 - INFO - RAPPORT FINAL D'ENRICHISSEMENT DBLP - TOUS LES ENSEIGNANTS
+2025-05-18 21:39:33,606 - INFO - ======================================================================
+2025-05-18 21:39:33,606 - INFO - Total traités: 81
+2025-05-18 21:39:33,606 - INFO - Enrichis avec succès: 50
+2025-05-18 21:39:33,607 - INFO - Déjà enrichis (ignorés): 0
+2025-05-18 21:39:33,607 - INFO - Erreurs: 0
+2025-05-18 21:39:33,608 - INFO - Taux de succès: 61.7%
+2025-05-18 21:39:33,608 - INFO - 
+STATISTIQUES PAR CATÉGORIE:
+2025-05-18 21:39:33,609 - INFO -    enseignants_chercheurs:
+2025-05-18 21:39:33,609 - INFO -       Total: 35
+2025-05-18 21:39:33,610 - INFO -       Enrichis: 21
+2025-05-18 21:39:33,610 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,610 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,611 - INFO -       Taux de succès: 60.0%
+2025-05-18 21:39:33,611 - INFO -    doctorants:
+2025-05-18 21:39:33,611 - INFO -       Total: 25
+2025-05-18 21:39:33,612 - INFO -       Enrichis: 15
+2025-05-18 21:39:33,612 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,612 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,613 - INFO -       Taux de succès: 60.0%
+2025-05-18 21:39:33,613 - INFO -    administratif_et_technique:
+2025-05-18 21:39:33,613 - INFO -       Total: 3
+2025-05-18 21:39:33,614 - INFO -       Enrichis: 1
+2025-05-18 21:39:33,614 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,614 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,615 - INFO -       Taux de succès: 33.3%
+2025-05-18 21:39:33,615 - INFO -    doctorants_externe:
+2025-05-18 21:39:33,615 - INFO -       Total: 2
+2025-05-18 21:39:33,615 - INFO -       Enrichis: 2
+2025-05-18 21:39:33,615 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,616 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,616 - INFO -       Taux de succès: 100.0%
+2025-05-18 21:39:33,616 - INFO -    collaborateurs_benevoles:
+2025-05-18 21:39:33,616 - INFO -       Total: 5
+2025-05-18 21:39:33,617 - INFO -       Enrichis: 4
+2025-05-18 21:39:33,617 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,617 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,617 - INFO -       Taux de succès: 80.0%
+2025-05-18 21:39:33,617 - INFO -    chercheurs_associes:
+2025-05-18 21:39:33,617 - INFO -       Total: 6
+2025-05-18 21:39:33,618 - INFO -       Enrichis: 3
+2025-05-18 21:39:33,618 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,618 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,618 - INFO -       Taux de succès: 50.0%
+2025-05-18 21:39:33,618 - INFO -    émérite:
+2025-05-18 21:39:33,618 - INFO -       Total: 5
+2025-05-18 21:39:33,619 - INFO -       Enrichis: 4
+2025-05-18 21:39:33,619 - INFO -       Déjà présents: 0
+2025-05-18 21:39:33,619 - INFO -       Erreurs: 0
+2025-05-18 21:39:33,619 - INFO -       Taux de succès: 80.0%
+2025-05-18 21:39:33,619 - INFO - ======================================================================
+2025-05-18 21:39:33,622 - INFO - Connexion MongoDB fermée

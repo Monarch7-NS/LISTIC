@@ -1,0 +1,229 @@
+{
+    "Internationaux": [
+        {
+            "NOM": "CIME",
+            "MOTS CLÉS": "Aide à la décision, Représentation d’informations incertaines, Risque d’avalanche, Réalité augmentée",
+            "PARTENAIRES": "HES-SO Valais-Wallis, HEIG-VD, ALEA, data-avalanche.org, ASGM",
+            "FINANCEURS": "Interreg",
+            "PÉRIODE": "2018-2023"
+        },
+        {
+            "NOM": "TRANSFRONTOUR",
+            "MOTS CLÉS": "système de recommandation, profils utilisateurs, préférences utilisateur, système d’aide à la décision, algorithmes, tourisme",
+            "PARTENAIRES": "Haute Ecole Spécialisée de Suisse Occidentale",
+            "FINANCEURS": "Interreg – FEDER",
+            "PÉRIODE": "2016-2019"
+        },
+        {
+            "NOM": "ONTOREVERSE",
+            "MOTS CLÉS": "Etude et réalisation d’un environnement basé sur les connaissances et règles métier pour la compréhension semi-automatique et la réingénierie de système d’information",
+            "PARTENAIRES": "CMDL (porteur), CIAT, HEG, HORTIS SA, CTI",
+            "FINANCEURS": "INTERREG IV",
+            "PÉRIODE": "2012-2015"
+        },
+        {
+            "NOM": "GLARISKALP",
+            "MOTS CLÉS": "risques glaciaires",
+            "PARTENAIRES": "Arpa Vda, Cnr-IRPI, EDYTEM, FMS, GIPSA-lab, LGGE",
+            "FINANCEURS": "Commission européenne",
+            "PÉRIODE": "2011-2013"
+        },
+        {
+            "NOM": "Poste de travail interactif",
+            "MOTS CLÉS": "communication homme-machine, logique floue, posture de la main",
+            "PARTENAIRES": "Université de Kagawa",
+            "FINANCEURS": "Université Savoie Mont Blanc",
+            "PÉRIODE": "2002-2004"
+        }
+    ],
+    "Nationaux": [
+        {
+            "NOM": "ETHICS40",
+            "MOTS CLÉS": "Management des risques éthiques dans l’Industrie du Futur",
+            "PARTENAIRES": "LAMIH, CERAG, NTN",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2024-2027"
+        },
+        {
+            "NOM": "C2R-IA",
+            "MOTS CLÉS": "Chutes de blocs, risque rocheux, gestion opérationnelle du risque par IA",
+            "PARTENAIRES": "BRGM, Géolithe, Cerema, LIRIS",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2023-2027"
+        },
+        {
+            "NOM": "AIACOPAHV",
+            "MOTS CLÉS": "Compréhension et prédiction de l’activité humaine et volcanique",
+            "PARTENAIRES": "",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2023-2027"
+        },
+        {
+            "NOM": "Lab Capital Humain",
+            "MOTS CLÉS": "",
+            "PARTENAIRES": "PRISMO, CERAG",
+            "FINANCEURS": "Pôle Emploi",
+            "PÉRIODE": "2023-2027"
+        },
+        {
+            "NOM": "REPED-SARIX",
+            "MOTS CLÉS": "Surveillance de la déformation de la terre, prévision des risques naturels, séries temporelles d’images SAR",
+            "PARTENAIRES": "ISTerre, IRD, CNAP, IGE, LEME",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2022-2026"
+        },
+        {
+            "NOM": "PARFAIT",
+            "MOTS CLÉS": "Planification et apprentissage pour AI-Edge Computing",
+            "PARTENAIRES": "Avignon Université, INRIA, CNAM, Université Savoie Mont Blanc",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2022-2025"
+        },
+        {
+            "NOM": "MOPGA Postdoc",
+            "MOTS CLÉS": "statistiques robustes, géométrie de l’information, performances théoriques, applications radar",
+            "PARTENAIRES": "",
+            "FINANCEURS": "Campus France MOPGA Post-doc",
+            "PÉRIODE": "2021-2022"
+        },
+        {
+            "NOM": "RainbowFS",
+            "MOTS CLÉS": "Cohérence modulaire et conception conjointe d’un système de fichiers\nmassif",
+            "PARTENAIRES": "LIP6, LIG, Telecom SudParis, Scality",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2017-2022"
+        },
+        {
+            "NOM": "MARGARITA",
+            "MOTS CLÉS": "statistiques robustes, géométrie de l’information, performances théoriques, applications radar",
+            "PARTENAIRES": "IMS, LEME, LSS, ONERA, SONDRA",
+            "FINANCEURS": "DGA",
+            "PÉRIODE": "2017-2022"
+        },
+        {
+            "NOM": "PHOENIX",
+            "MOTS CLÉS": "Parcimonie, observations non-stationnaires de grandes dimensions, modélisation des séries chronologiques d’images et télédétection",
+            "PARTENAIRES": "Télécom Paris-Tech, Télécom Brest, Université de Marne-la-Vallée, Université de Campinas",
+            "FINANCEURS": "ANR (Blanc)",
+            "PÉRIODE": "2015-2019"
+        },
+        {
+            "NOM": "ReVeRies",
+            "MOTS CLÉS": "Reconnaissance de végétaux récréative, interactive et éducative sur smartphone",
+            "PARTENAIRES": "LIUM (porteur), LIRIS, EVS, IRHS",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2015-2019"
+        },
+        {
+            "NOM": "VIP-Mont-Blanc",
+            "MOTS CLÉS": "Comprendre et prévoir les évolutions de l’environnement : Un projet de recherche sur l’évolution morphologique du massif du Mont Blanc",
+            "PARTENAIRES": "ISTerre (porteur), EDYTEM, CEREGE, LGGE, BIOGEOSCIENCES",
+            "FINANCEURS": "ANR",
+            "PÉRIODE": "2014-2018"
+        },
+        {
+            "NOM": "G4M",
+            "MOTS CLÉS": "Géodétection Multi-Métiers et Multi-Matériaux",
+            "PARTENAIRES": "ENGIE (porteur), Télécom Paris Tech",
+            "FINANCEURS": "FUI (15)",
+            "PÉRIODE": "2014-2017"
+        },
+        {
+            "NOM": "FOSTER",
+            "MOTS CLÉS": "data mining, images satelite, séries temporelles",
+            "PARTENAIRES": "LIRIS, LSIIT, PPME",
+            "FINANCEURS": "ANR conception et simulation",
+            "PÉRIODE": "2011-2013"
+        },
+        {
+            "NOM": "REVES",
+            "MOTS CLÉS": "reconnaissance de végétaux, images, fusion d’informations hétérogènes, smartphone",
+            "PARTENAIRES": "LIRIS (porteur), EVS",
+            "FINANCEURS": "ANR contenus et interactions",
+            "PÉRIODE": "2010-2013"
+        },
+        {
+            "NOM": "BATIMETRE",
+            "MOTS CLÉS": "performance énergétique, bâtiments à basse consommation",
+            "PARTENAIRES": "INES, LIST, LOCIE",
+            "FINANCEURS": "ANR habitat intelligent et solaire",
+            "PÉRIODE": "2010-2012"
+        },
+        {
+            "NOM": "EFIDIR",
+            "MOTS CLÉS": "Mesure de déplacement, Imagerie radar",
+            "PARTENAIRES": "IETR, GIPSA-Lab, LTCI, ISTerre, Lab. Géologie de l’ENS",
+            "FINANCEURS": "ANR Masse de données et connaissance",
+            "PÉRIODE": "2008-2012"
+        },
+        {
+            "NOM": "MES-Mestria",
+            "MOTS CLÉS": "SOA, aide à la décision, processus métiers, orchestration de services, QoS, modèles de préférences, cartographie de services, MES, services Web, BPMN, architecture logicielle, ISA-95",
+            "PARTENAIRES": "Alpha 3i, Carl software, Cincom, Courbon, Jam, M1i, Quasar solutions,DISP,Thésame",
+            "FINANCEURS": "Région Rhône-Alpes",
+            "PÉRIODE": "2008-2011"
+        },
+        {
+            "NOM": "EVALFILMS",
+            "MOTS CLÉS": "système coopératif, fusion d’information, sélection de film d’animation",
+            "PARTENAIRES": "CITIA",
+            "FINANCEURS": "Région Rhône-Alpes",
+            "PÉRIODE": "2005-2008"
+        },
+        {
+            "NOM": "MEGATOR",
+            "MOTS CLÉS": "glaciers, télédétection, données optiques et radar, méthodologie de traitement",
+            "PARTENAIRES": "GIPSA-Lab, LTCI,MAP-PAGE",
+            "FINANCEURS": "ACI->ANR Masse de données",
+            "PÉRIODE": "2004-2007"
+        },
+        {
+            "NOM": "PETRA",
+            "MOTS CLÉS": "guide méthodologique, réorganisation industrielle",
+            "PARTENAIRES": "LGIPM",
+            "FINANCEURS": "Université de Lorraine, Université Savoie Mont Blanc",
+            "PÉRIODE": "1999-2001"
+        }
+    ],
+    "Regionaux": [
+        {
+            "NOM": "IATOAURA",
+            "MOTS CLÉS": "IA et multi-modalité pour l’observation des territoires",
+            "PARTENAIRES": "GIPSA-Lab",
+            "FINANCEURS": "Région Auvergne-Rhône-Alpes",
+            "PÉRIODE": "2021-2026"
+        }
+    ],
+    "Incubation": [
+        {
+            "NOM": "AFREU",
+            "MOTS CLÉS": "Apprentissage fédéré, système distribué",
+            "FINANCEURS": "Université Savoie Mont Blanc",
+            "PÉRIODE": "2024"
+        },
+        {
+            "NOM": "IA2BIERE",
+            "MOTS CLÉS": "Intelligence ambiante",
+            "FINANCEURS": "Université Savoie Mont Blanc",
+            "PÉRIODE": "2022"
+        },
+        {
+            "NOM": "NORMAL",
+            "MOTS CLÉS": "",
+            "FINANCEURS": "Université Savoie Mont Blanc",
+            "PÉRIODE": "2021"
+        },
+        {
+            "NOM": "SMGA",
+            "MOTS CLÉS": "",
+            "FINANCEURS": "Université Savoie Mont Blanc",
+            "PÉRIODE": "2021"
+        },
+        {
+            "NOM": "DEDICATED",
+            "MOTS CLÉS": "",
+            "FINANCEURS": "Université Savoie Mont Blanc",
+            "PÉRIODE": "2020"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+  "search_results": {
+    "query": "listic",
+    "results_count": 4,
+    "summary": {
+      "CORE2023": {
+        "A*": "7.65% of 784 ranked venues",
+        "A": "14.92% of 784 ranked venues",
+        "B": "28.19% of 784 ranked venues",
+        "Australasian B": "0.77% of 784 ranked venues",
+        "C": "46.05% of 784 ranked venues",
+        "Australasian C": "2.42% of 784 ranked venues",
+        "Other": "171 total"
+      }
+    },
+    "conferences": [
+      {
+        "title": "International Conference on Probabilistic, Combinatorial, and Asymptotic Methods in the Analysis of Algorithms (was Conference on Analysis of Algorithms)",
+        "acronym": "AofA",
+        "source": "CORE2023",
+        "rank": "C",
+        "note": "none",
+        "dblp": "view",
+        "primary_for": "4613",
+        "comments": 0,
+        "average_rating": "N/A"
+      },
+      {
+        "title": "SIGIR workshop: Stylistic Analysis of Text For Information Access",
+        "acronym": "Style",
+        "source": "CORE2018",
+        "rank": "C",
+        "note": "none",
+        "dblp": "none",
+        "primary_for": "0806",
+        "comments": 0,
+        "average_rating": "N/A"
+      },
+      {
+        "title": "Symposium On Combinatorics, Algorithms, Probabilistic and Experimental Methodologies",
+        "acronym": "ESCAPE",
+        "source": "CORE2018",
+        "rank": "C",
+        "note": "none",
+        "dblp": "none",
+        "primary_for": "0802",
+        "comments": 0,
+        "average_rating": "N/A"
+      },
+      {
+        "title": "Workshop on Probabilistic Graph Theory",
+        "acronym": "PGT",
+        "source": "CORE2018",
+        "rank": "C",
+        "note": "none",
+        "dblp": "none",
+        "primary_for": "0802",
+        "comments": 0,
+        "average_rating": "N/A"
+      }
+    ]
+  },
+  "metadata": {
+    "source": "CORE Conference Portal",
+    "query_time": "2025-05-17"
+  }
+}

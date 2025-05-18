@@ -1,0 +1,328 @@
+{
+    "metadata": {
+        "date_extraction": "2025-05-18 20:06:41",
+        "date_maj_site": "18/04/2025",
+        "source_url": "https://www.univ-smb.fr/listic/informations/emplois/",
+        "nombre_total_offres": 26,
+        "categories": {
+            "postes_enseignant_chercheur": 1,
+            "postes_enseignant_chercheur_contractuel": 0,
+            "postes_ingenieur": 0,
+            "post_doc": 1,
+            "theses": 1,
+            "theses_passees": 7,
+            "stages": 16
+        }
+    },
+    "postes_enseignant_chercheur": [
+        {
+            "titre": "SPECIALITE : INFORMATIQUE (CNU 27- clôture des candidatures le 04/04/2025)",
+            "url": "https://projects.listic.univ-smb.fr/emploi/enseignant-chercheur/ODYSSEE_EditionPoste_Etab0730858L_OffreEC251000_V1.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/enseignant-chercheur/ODYSSEE_EditionPoste_Etab0730858L_OffreEC251000_V1.pdf",
+            "lieu": "CHAMBERY; de l'IUT d'Annecy; en entreprises, lecture des rapports, soutenances); Web  : www; web  : www; du ministère :; internet de l’université  à l’adresse suivante  :; /travailler -a-lusmb/campagne -et-recrutement/",
+            "contact": "(s) établissement; Didier Coquin - didier; Emmanuel Trouvé, Sébastien Monnet - Direction du LISTIC - recrutement; Recrutement -ec@univ -smb",
+            "email": "recrutement-ec@univ-smb.fr",
+            "theme": "à l’interface entre la cybersécurité, les réseaux et systèmes, et l’IA. Par exemple  :; ReGaRD. Celles en lien avec la sécurité de l’IA; AFUTE.",
+            "description": "du poste (Français) : E : En priorité Cybersécurité (pentesting, audit, SOC,; du poste (Anglais) : T:In priority Cybersecurity (pentesting, audit, SOC, SIEM,",
+            "competences_requises": "enseignement  : En priorité Cybersécurité (pentesting, audit, SOC, SIEM,...), Réseaux, Systèmes,; recherche  : Cybersécurité, infrastructures critiques, audit, surveillance, attaques par des exemples; ures : , heure de Paris 04/03/2025 10:00; ures : , heure de Paris 04/04/2025 16:00; ures se trouvent en page suivante.; ure est dématérialisé et un dossier complet doit être déposé pour chaque poste demandé.; ure devront être déposé es du mardi 4 mars  2025 à 10h00 jusqu’au  vendredi",
+            "date_extraction": "2025-05-18 20:05:46"
+        }
+    ],
+    "postes_enseignant_chercheur_contractuel": [],
+    "postes_ingenieur": [],
+    "post_doc": [
+        {
+            "titre": "Extrapolation spatiale des résultats de tests nivologiques pour la prévision du danger d’avalanche",
+            "url": "https://projects.listic.univ-smb.fr/emploi/post-doc/2023_Offre_Post-Doc_EraDA.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/post-doc/2023_Offre_Post-Doc_EraDA.pdf",
+            "duree_contrat": "1 an",
+            "contact": "S :Dr",
+            "email": "frederic.pourraz@univ-smb.fr; abdourrahmane.atto@univ-smb.fr",
+            "theme": "tels que la logique floue ou encore les ondelettes dans le but de réaliser un système; Extrapolation spatiale des résultats de tests nivologiques pour la prévision du",
+            "description": "Après avoir créé le réseau ROMANsns1 en décembre 2020, avec le nivologue Alain Duclos et; en ondelettes sera également demandée.",
+            "competences_requises": "De solides compétences en traitement de données incertaines sont primordiales. Une première",
+            "date_extraction": "2025-05-18 20:05:48"
+        }
+    ],
+    "theses": [
+        {
+            "titre": "?",
+            "url": "https://espaces-collaboratifs.grenet.fr/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/35ce5877-39c3-4f87-ae27-02bea2c38c7d/mode_emploi_pour_modifier_sa_page_perso_sur_le_site_web_du_LISTIC.pdf",
+            "ferme": false,
+            "url_listic": "https://espaces-collaboratifs.grenet.fr/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/35ce5877-39c3-4f87-ae27-02bea2c38c7d/mode_emploi_pour_modifier_sa_page_perso_sur_le_site_web_du_LISTIC.pdf",
+            "erreur": "401 Client Error: 401 for url: https://espaces-collaboratifs.grenet.fr/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/35ce5877-39c3-4f87-ae27-02bea2c38c7d/mode_emploi_pour_modifier_sa_page_perso_sur_le_site_web_du_LISTIC.pdf",
+            "date_extraction": "2025-05-18 20:05:49"
+        }
+    ],
+    "theses_passees": [
+        {
+            "titre": "Pronostic de salissures des modules PV via la modélisation de l‘environnement réel et la fusion de données",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/Thesis CEA-USMB Description.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/Thesis CEA-USMB Description.pdf",
+            "lieu": "s marins et agricoles, subissent; pilote et analyse des corrélations entre",
+            "email": "ioannis.tsanakas@cea.fr; yajing.yan@univ-smb.fr",
+            "theme": "tes aux; tes aux",
+            "competences_requises": "du CEA et de ses partenaires :",
+            "date_extraction": "2025-05-18 20:05:51"
+        },
+        {
+            "titre": "Habitat sensible et intelligent pour l’aide au maintien à domicile : contribution à l’évaluation de la perte d’autonomie par IOT et IA",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/2025_PhD-TUG-LIKE-fr.pdf",
+            "ferme": true,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/2025_PhD-TUG-LIKE-fr.pdf",
+            "duree_contrat": "3 ans, démarrage  octobre  2025; de la",
+            "contact": "s",
+            "theme": "Ce projet s'inscrit dans le défi sociétal qu'est l'aide au maintien à domicile  de personnes vulnéra",
+            "date_extraction": "2025-05-18 20:06:08"
+        },
+        {
+            "titre": "Vers une IA résiliente et soutenable : Plateformes d’apprentissage automatique distribuées, frugales et soucieuses de l’énergie",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/2024_FicheSujetlabo_Allocation_ED_SIE.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/2024_FicheSujetlabo_Allocation_ED_SIE.pdf",
+            "duree_contrat": "totale des activités complémentaires aux activités; doctoral fixe une rémunération principale, indexée; doctoral sont prévues par l’article 5 du décret n°; doctoral ne peut excéder un si xième du temps de t",
+            "salaire": "principale, indexée sur l’évolution des; du doctorant contractuel NOR : ESRH2235820A  - Article 1 - L'article 1er de l'ar; mensuelle minimale des doctorants; de la rémunération du doctorant contractuel NOR : ESRH2235820A  - Article 1 - L'; s au taux fixé pour les travaux dirigés en vigueur",
+            "contact": "Nom prénom  : Monnet Sébastien / Plassart Stéphan",
+            "theme": "distributed learning, scheduling, energy optimization, resilience; DE THESE; DE THÈSE",
+            "competences_requises": "e nt, même; RECHERCHE  : Détailler en quelques lignes vos besoins et les qualités du candidat recherché…; -e sera issu -e d'une formation de niveau master ou équivalent dans le domaine de l'informati que avec de; -e ait une appétence; -e devra également avoir une bonne maîtrise (écrite et orale) de l'anglais .",
+            "date_extraction": "2025-05-18 20:06:10"
+        },
+        {
+            "titre": "Développement d’un modèle de pilotage et d’amélioration continue de la performance intégrant les risques éthiques dans les systèmes industriels du Futur",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/2024_sujet thèse Performance et Industrie du Futur .pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/2024_sujet thèse Performance et Industrie du Futur .pdf",
+            "lieu": "ra des déplacements réguliers, tout au long de la",
+            "duree_contrat": "1er octobre 2024 pour une durée de 3 ans; du contrat  : 36 mois; CDD Doctorant/Contrat doctoral; CDD Doctorant/Contrat doctoral; 36 mois",
+            "salaire": "La rémunération est d'un minimum de 2100 € mensuel",
+            "email": "Damien.Trentesaux@uphf.fr",
+            "theme": "DE THESE",
+            "description": "DU SUJET DE THESE; du projet ANR ETHICS40 ( ANR -23-CE10 -0014 ) dont les partenaires sont le; ( économie circulaire, Responsabilité Sociétale des Entreprises (RSE), Règlement; industriel . Le contexte; of Industry 4.0. Sustainability, 13(16), 9209 .; de travail des laboratoires LISTIC et LAMIH .; du projet ANR ETHICS 40, cette thèse requiert du candidat une capacité à savoir",
+            "competences_requises": "et profil du candidat; idéal est celui d’un ingénieur ou d’un master dans les domaines du génie industriel, mais cela n’est pas; techniques dans les domaines du génie industriel et des; techniques dans les domaines du numérique (Internet des objets, systèmes; rédactionnelles sont requises ( français ,; Le candidat doit détenir, ou être sur le point de terminer un diplôme de master ou ingénieur au moment de sa; ure. L’inscription en thèse sera conditionnée à l’obtention de ce diplôme .; , même s ’il n’a pas suivi de modules d’enseignement en; retenu devra avoir de solides  compétences techniques dans les domaines du génie industriel et des; doit montrer un intérêt réel à s'engager dans; une capacité à savoir; ure se fait par voie électronique à  : lamia.berrah@univ -smb.fr; s sélectionnés seront audition nés par les encadrants",
+            "date_extraction": "2025-05-18 20:06:12"
+        },
+        {
+            "titre": "Construction de parcours d’apprentissage flexibles et suivi des étudiants",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/2023_SujetTheseNCU2_Sorana_V4.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/2023_SujetTheseNCU2_Sorana_V4.pdf",
+            "lieu": "éducatif, dont il faudra valider; nt de regrouper un; le développement de nouvelles méthodes de suivis; sont prévus par le projet, avec du personnel ayant",
+            "duree_contrat": ", vise la transformation pédagogique",
+            "contact": "Pour candida ter envoyer un courrier avant 15  juillet à  sorana",
+            "theme": "ties à des contraintes diverses, dans les; s, allant par exemple de l’acquisition de compétences manuelles; s d’étude abordés, et de temporalité. Ceci offrira aux; proposé se positionne en informatique dans le large domaine des applications de; s abordés, mais également de la construction temporelle de ces parcours, il sera intéressant",
+            "description": "de  l’offre de formation; de l’offre de formation flexibles et pouvant être exploité avec les; uel de la thèse  La société est aujourd’hui largement impactée par la transformation numérique qui change de; . Ces méthode s peuvent; du projet NCU2 -@SPIRE de l’Université Savoie  Mont Blanc.; la thèse proposera des modèles et des outils permettant aux étudiants de; ou les étudiants vont suivre des parcours très différents non seulement du point de vue",
+            "competences_requises": "acquises et le niveau d’expertise atteint  par; » ou «  apprentissage  » dans la; manuelles; des métiers.; Candidat avec des connaissances dans l’analyse de données et l’apprentissage automatique. Les; et aussi des besoins de compétences des métiers.; avec des connaissances dans l’analyse de données et l’apprentissage automatique. Les",
+            "date_extraction": "2025-05-18 20:06:13"
+        },
+        {
+            "titre": "IA explicable (XAI – eXplainable AI) pour la prévision de chutes de blocs rocheux",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/2023_sujet_these_XAI_AFuTé_VERSION_FINALE.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/2023_sujet_these_XAI_AFuTé_VERSION_FINALE.pdf",
+            "lieu": "et du volume probable des futurs éboulements, ce q; également l’estimation du risque d’occurrence d’éb; une procédure de prise de décision justifiée",
+            "contact": "s  Après lecture de ces articles , si vous souhaitez candidater, transmettez -nous :; er éventuellement; éventuellement",
+            "theme": "de thèse",
+            "description": "quantitative (nombre de chutes, volume rocheux) de l’augmentation du risque; MINING.  The XXIV International; ces travaux de thèse s’inscrivent au sein du projet  ANR C2R -IA et feront l’objet d’une",
+            "competences_requises": "Connaissances en traitement d u signal , réseaux de neurones et fouille de données.; rédactionnelles  et en informatique ( C/C++, Python, Linux ).; ure  / Contacts  Après lecture de ces articles , si vous souhaitez candidater, transmettez -nous :",
+            "date_extraction": "2025-05-18 20:06:15"
+        },
+        {
+            "titre": "Détection d’anomalies par apprentissage fédéré pair à pair",
+            "url": "https://projects.listic.univ-smb.fr/emploi/these/2022-These-Benoit-Bettinelli-Pfeiffer.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/these/2022-These-Benoit-Bettinelli-Pfeiffer.pdf",
+            "lieu": "industriel, car cela nécessite des; des",
+            "duree_contrat": "entre l’entreprise et l’USMB",
+            "email": "dir-listic@univ-smb.fr",
+            "theme": "et mots clefs de ces publications identifiées a priori sont :",
+            "description": "Le projet se situe dans un contexte industriel à grande échelle pour lequel une entreprise produit des; s ? On peut parler d’optimisation de; industriel. Également,; applicatif proposé :; de cette recherche.; de la thèse. Les objectifs pourront être réalisé par la personne candidate à la thèse et lui",
+            "competences_requises": "e à la thèse; e à la thèse et lui",
+            "date_extraction": "2025-05-18 20:06:17"
+        }
+    ],
+    "stages": [
+        {
+            "titre": "Master 2-Ingénieur bac+5-Classical GAS ‐ Classical methods for Generative Audio Synthesisx",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/2025_stage-Lavault.pdf",
+            "ferme": true,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/2025_stage-Lavault.pdf",
+            "contact": "sAntoine Lavault –antoine",
+            "theme": "Audio synthesis, C/C++ programming, generative models, frugal AI, deep learning,; Keywords: Audio synthesis, C/C++ programming, generative models, frugal AI, deep learning,",
+            "description": "du sujetKeywords: Audio synthesis, C/C++ programming, generative models, frugal AI, deep learning,; Signal‐based audio synthesis methods like the ones described in [1] or [2] have seen a regain of interestrecentlyafter the introduction of the Differential Digital Signal Processing (DDSP) package [3]. It uses a neural architecturetoproduce control parameters for a signal‐based synthesis method. The original DDSP implementation performs",
+            "competences_requises": "as well asgood writing and oral communication skills.A strong interest and/or experience with audio signal processing will be appreciated.; Deep Learning and associated frameworks (TF or Torch), basic signal processing. Skills in signal‐based audio; e profile :; e should have strong programming skills as well asgood writing and oral communication skills.A strong interest and/or experience with audio signal processing will be appreciated.",
+            "date_extraction": "2025-05-18 20:06:19"
+        },
+        {
+            "titre": "Master 2 – Identification d’indicateurs de performance multicritère dédiés à la prise de décision pour le pilotage optimal des réseaux de chaleur",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_LOCIE_AI4DHN_2024.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_LOCIE_AI4DHN_2024.pdf",
+            "lieu": "l’identification de variables permettant l’optimis",
+            "contact": "s Lamia Berrah, Jaume Fito, Boris Nerot, Faiza Loukil, Mickael Bettinelli, Alexandre Benoit (prenom",
+            "email": "prenom.nom@univ-smb.fr",
+            "theme": "de stage Contexte général : Les réseaux de chaleur urbains sont généralement constitués d’une ou de",
+            "description": "du sujet de stage Contexte général : Les réseaux de chaleur urbains sont généralement constitués d’une ou de plusieurs unités de production de chaleur centralisées, reliées par un réseau de distribution aux sous-stations distribuées afin de satisfaire les demandes de chaleur des consommateurs finaux. Toutefois, ces réseaux présentent des difficultés récurrentes en termes de régulation puisque les exploitants sont souvent contraints de surexploiter les combustibles fossiles pour satisfaire les po; général : Les réseaux de chaleur urbains sont généralement constitués d’une ou de plusieurs unités de production de chaleur centralisées, reliées par un réseau de distribution aux sous-stations distribuées afin de satisfaire les demandes de chaleur des consommateurs finaux. Toutefois, ces réseaux présentent des difficultés récurrentes en termes de régulation puisque les exploitants sont souvent contraints de surexploiter les combustibles fossiles pour satisfaire les pointes de demandes en périod",
+            "competences_requises": "Compréhension des concepts de performance et d'indicateurs multicritère. Connaissance en analyse bibliographique.  Capacité à travailler de manière autonome et en équipe. Gratification Selon législation en vigueur Tuteurs / Contacts Lamia Berrah, Jaume Fito, Boris Nerot, Faiza Loukil, Mickael Bettinelli, Alexandre Benoit (prenom.nom@univ-smb.fr)",
+            "date_extraction": "2025-05-18 20:06:20"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac +5 : Mesure de la marche humaine par IA et réseaux de capteurs non intrusifs et diffus",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/_2025_sujet_stage_IA-gait.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/_2025_sujet_stage_IA-gait.pdf",
+            "duree_contrat": "4 à 6 mois; privilégié",
+            "salaire": "de l'ordre de 4,35€/heure (environ 620 € / mois )",
+            "contact": "s  Stéphane Perrin / Eric Benoit stephane",
+            "theme": "de stage a trait à l' intelligence ambiante  éthique  pour la mesure",
+            "description": "applicatif est l'aide au maintien à domicile des",
+            "competences_requises": "Autonomie, inventivité, rigueur.",
+            "date_extraction": "2025-05-18 20:06:21"
+        },
+        {
+            "titre": "(Measuring human gait using AI and non-intrusive, diffuse sensor networksversion)",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/_2025_internship_IA-gait-EN.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/_2025_internship_IA-gait-EN.pdf",
+            "duree_contrat": "4 to 6 months",
+            "contact": "Stéphane Perrin / Eric Benoit stephane",
+            "competences_requises": ", mastery of a computer language.",
+            "date_extraction": "2025-05-18 20:06:23"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac +5 : Design of an Unrolled Neural Network for Hyperspectral Pansharpening.",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/2024-stage_pansharpening.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/2024-stage_pansharpening.pdf",
+            "contact": "sYassine MHIRI (yassine",
+            "email": "yassine.mhiri@univ-smb.fr; ammar.mian@univ-smb.fr; argheesh.bhanot@univ-smb.fr",
+            "theme": "Hyperspectral  imaging,  pansharpening,  convex  optimization,  deep  learning,  unrolled  neural; et  algorithmes  rapides  pour  le; Keywords",
+            "description": "Pansharpening  is  a  fundamental  and  crucial  task  in  remote  sensing  which  generates  a  high-",
+            "competences_requises": "She/he should be enrolled in a M2 or engineer diploma in one or more of the following fields:; will be based in Annecy. This internship will be hosted in the LISTIC laboratory, with regular; e should have",
+            "date_extraction": "2025-05-18 20:06:24"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac +5 : Stratégies de distribution des données pour un apprentissage frugal et soucieux de l’empreinte carbone avec des sources d’énergie hétérogènes.",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/2025_Stage_GREENER.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/2025_Stage_GREENER.pdf",
+            "lieu": "web), mais également sur des topologies internatio; Renewable Energy Sources",
+            "contact": "s Plassart Stéphan, Monnet Sébastien (firstname",
+            "email": "firstname.lastname@univ-smb.fr",
+            "theme": "De nos jours, l'intelligence artificielle révolutionne l'informatique et la vie quotidienne de chacu",
+            "description": "du sujet De nos jours, l'intelligence artificielle révolutionne l'informatique et la vie quotidienne de chacun. Lors de l'utilisation des techniques d'apprentissage automatique, le volume important de données et de calculs nécessaires ne peut pas être pris en charge par un seul ordinateur. C'est pourquoi l'apprentissage automatique distribué (DML) est largement utilisé. Il existe de nombreuses façons de répartir efficacement la charge de travail. L'une de ces approches est l'informatique distrib",
+            "competences_requises": "• Connaissance en système distribué, réseau, et en optimisation • Apprentissage distribué  • C++  Gratification Selon législation en vigueur (~600€/mois) Tuteurs / Contacts Plassart Stéphan, Monnet Sébastien (firstname.lastname@univ-smb.fr)",
+            "date_extraction": "2025-05-18 20:06:26"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac +5 : Comment faire de l’apprentissage distribué sur des flux de données ?",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/2025_atroce_federated.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/2025_atroce_federated.pdf",
+            "lieu": "r leur déplace ment vers un serveur",
+            "contact": "s  Alexandre Benoit – alexandre",
+            "theme": "Ce stage prend racine dans le cadre d’un projet exploratoire financé par l’université Savoie",
+            "description": "s spécifiques comme le médical pour optimiser des modèles généraux en utilisant",
+            "competences_requises": "- Deep learning",
+            "date_extraction": "2025-05-18 20:06:27"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac +5 :",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "email": "ammar.mian@univ-smb.fr; florent.bouchard@centralesupelec.fr; guillaume.ginolhac@univ-smb.fr",
+            "description": "This work will constitute the following of a strong collaboration between Univ. Savoie",
+            "competences_requises": "in Python.",
+            "date_extraction": "2025-05-18 20:06:29"
+        },
+        {
+            "titre": "Riem",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "email": "ammar.mian@univ-smb.fr; florent.bouchard@centralesupelec.fr; guillaume.ginolhac@univ-smb.fr",
+            "description": "This work will constitute the following of a strong collaboration between Univ. Savoie",
+            "competences_requises": "in Python.",
+            "date_extraction": "2025-05-18 20:06:30"
+        },
+        {
+            "titre": "annian",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "email": "ammar.mian@univ-smb.fr; florent.bouchard@centralesupelec.fr; guillaume.ginolhac@univ-smb.fr",
+            "description": "This work will constitute the following of a strong collaboration between Univ. Savoie",
+            "competences_requises": "in Python.",
+            "date_extraction": "2025-05-18 20:06:31"
+        },
+        {
+            "titre": "Federated Learning for time series analysis application with remote sensing data",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/Stage_Federated_SPD_2025-1.pdf",
+            "email": "ammar.mian@univ-smb.fr; florent.bouchard@centralesupelec.fr; guillaume.ginolhac@univ-smb.fr",
+            "description": "This work will constitute the following of a strong collaboration between Univ. Savoie",
+            "competences_requises": "in Python.",
+            "date_extraction": "2025-05-18 20:06:33"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac+5 : Traitement de données magnéto-telluriques : identification des sources de bruit et de signal",
+            "url": "https://projects.listic.univ-smb.fr/emploi/stage/2025_sujet_stage_magnetotellurique.pdf",
+            "ferme": false,
+            "url_listic": "https://projects.listic.univ-smb.fr/emploi/stage/2025_sujet_stage_magnetotellurique.pdf",
+            "contact": "s Eric BENOIT (LISTIC), Svetlana BYRDINA (ISTerre), Jean-Luc GOT (ISTerre)",
+            "email": "eric.benoit@univ-smb.fr; svetlana.byrdina@univ-smb.fr; jean-luc.got@univ-smb.fr",
+            "theme": "L’analyse  de  données  magnéto-telluriques  (variations  du  champ  électrique  et  du  champ",
+            "competences_requises": "Connaissances solides dans le domaine de la physique, appétence pour le traitement du signal et",
+            "date_extraction": "2025-05-18 20:06:34"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac+5 : Classical GAS ‐ Classical methods for Generative Audio Synthesis",
+            "url": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/cgas_sujet_stage.pdf",
+            "ferme": false,
+            "url_listic": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/cgas_sujet_stage.pdf",
+            "contact": "sAntoine Lavault –antoine",
+            "theme": "Audio synthesis, C/C++ programming, generative models, frugal AI, deep learning,; Keywords: Audio synthesis, C/C++ programming, generative models, frugal AI, deep learning,",
+            "description": "du sujetKeywords: Audio synthesis, C/C++ programming, generative models, frugal AI, deep learning,; Signal‐based audio synthesis methods like the ones described in [1] or [2] have seen a regain of interestrecentlyafter the introduction of the Differential Digital Signal Processing (DDSP) package [3]. It uses a neural architecturetoproduce control parameters for a signal‐based synthesis method. The original DDSP implementation performs",
+            "competences_requises": "as well asgood writing and oral communication skills.A strong interest and/or experience with audio signal processing will be appreciated.; Deep Learning and associated frameworks (TF or Torch), basic signal processing. Skills in signal‐based audio; e profile :; e should have strong programming skills as well asgood writing and oral communication skills.A strong interest and/or experience with audio signal processing will be appreciated.",
+            "date_extraction": "2025-05-18 20:06:35"
+        },
+        {
+            "titre": "PDF-gb",
+            "url": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/stage2025listicgb.pdf",
+            "ferme": false,
+            "url_listic": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/stage2025listicgb.pdf",
+            "contact": "s",
+            "email": "antoine.bourlier@univ-tours.fr; jean-yves.ramel@univ-smb.fr",
+            "theme": "Description",
+            "description": "We offer a Master’s internship in Graph Machine Learning for applications in multimodal imaging (medical or environmental).",
+            "competences_requises": " Master’s or Engineering student in Computer Science, Machine Learning, or Data Science.",
+            "date_extraction": "2025-05-18 20:06:37"
+        },
+        {
+            "titre": "PDF-fr)",
+            "url": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/stage202425jyr.pdf",
+            "ferme": false,
+            "url_listic": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/stage202425jyr.pdf",
+            "contact": "s  jean-yves",
+            "email": "Antoine.bourlier@univ-tours.fr; jean-yves.ramel@univ-smb.fr",
+            "theme": "Nous proposons un stage de Master en Machine Learning sur Graphes pour des applications en",
+            "description": "s graphes adaptées à la représentation d'images; . Évaluation des performances des modèles pour la",
+            "competences_requises": "• Étudiant(e) en Master 2 ou école d’ingénieurs en Informatique, Machine Learning, Data Science.; en Machine Learning (notamment variational autoencoders, GNN, VGAE)",
+            "date_extraction": "2025-05-18 20:06:38"
+        },
+        {
+            "titre": "Master 2 – Ingénieur bac+5 : Machine learning energy measurement in a federated scenario",
+            "url": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/sujet_stage_mesure_machine_learning.pdf",
+            "ferme": false,
+            "url_listic": "https://www.univ-smb.fr/listic/wp-content/uploads/sites/66/2024/12/sujet_stage_mesure_machine_learning.pdf",
+            "email": "ammar.mian@univ-smb.fr",
+            "description": "In the context of global warming and the exponential growth of the IT sector’s carbon; TheinternshipwillbeheldinLISTIClabatAnnecyforadurationof4to6months",
+            "competences_requises": "MasterstudentwithgoodcodingskillsinPythonandbashscripting.Aknowledge; 4 Scientific context; should have also good writing and oral communication skills",
+            "date_extraction": "2025-05-18 20:06:40"
+        }
+    ]
+}
