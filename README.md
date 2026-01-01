@@ -2,6 +2,11 @@
 
 Ce projet complet permet l'extraction, l'enrichissement et la gestion automatisée de toutes les données du laboratoire LISTIC (Université Savoie Mont Blanc) depuis leur site web vers des fichiers JSON et des bases de données MongoDB.
 
+
+
+
+
+
 ## 📁 Structure du projet
 
 ```
